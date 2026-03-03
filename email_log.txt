@@ -1,0 +1,1788 @@
+2026-02-19 19:41:11 | INFO     | ============================================================
+2026-02-19 19:41:11 | INFO     | Cold Email Sender — 2026-02-19 19:41:11
+2026-02-19 19:41:11 | INFO     | Resume : resume.pdf
+2026-02-19 19:41:11 | INFO     | ============================================================
+2026-02-19 19:41:11 | CRITICAL | Resume file not found: 'resume.pdf'. Place your resume PDF in the same directory or use --resume <path>.
+2026-02-19 19:41:56 | INFO     | ============================================================
+2026-02-19 19:41:56 | INFO     | Cold Email Sender — 2026-02-19 19:41:56
+2026-02-19 19:41:56 | INFO     | Resume : /home/satvik/Downloads/Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:41:56 | INFO     | ============================================================
+2026-02-19 19:41:56 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-19 19:41:57 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-19 19:41:57 | INFO     | ------------------------------------------------------------
+2026-02-19 19:41:57 | INFO     | [1/22] Processing: Desklay (3 recipient(s))
+2026-02-19 19:41:57 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:00 | INFO     | [SUCCESS] Sent to apply.now@desklay.com                     company=Desklay  attempt=1
+2026-02-19 19:42:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:03 | INFO     | [SUCCESS] Sent to hr@desklay.com                            company=Desklay  attempt=1
+2026-02-19 19:42:03 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:05 | INFO     | [SUCCESS] Sent to careers@desklay.com                       company=Desklay  attempt=1
+2026-02-19 19:42:05 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:42:15 | INFO     | [2/22] Processing: Techolution (3 recipient(s))
+2026-02-19 19:42:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:18 | INFO     | [SUCCESS] Sent to aishwaryaa.ganesh@techolution.com         company=Techolution  attempt=1
+2026-02-19 19:42:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:20 | INFO     | [SUCCESS] Sent to hr@techolution.com                        company=Techolution  attempt=1
+2026-02-19 19:42:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:23 | INFO     | [SUCCESS] Sent to careers@techolution.com                   company=Techolution  attempt=1
+2026-02-19 19:42:23 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:42:33 | INFO     | [3/22] Processing: Expleogroup (3 recipient(s))
+2026-02-19 19:42:33 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:36 | INFO     | [SUCCESS] Sent to sargam.gera@expleogroup.com               company=Expleogroup  attempt=1
+2026-02-19 19:42:36 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:39 | INFO     | [SUCCESS] Sent to hr@expleogroup.com                        company=Expleogroup  attempt=1
+2026-02-19 19:42:39 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:41 | INFO     | [SUCCESS] Sent to careers@expleogroup.com                   company=Expleogroup  attempt=1
+2026-02-19 19:42:41 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:42:51 | INFO     | [4/22] Processing: Telekom Digital (5 recipient(s))
+2026-02-19 19:42:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:54 | INFO     | [SUCCESS] Sent to platformhiring@telekom-digital.com        company=Telekom Digital  attempt=1
+2026-02-19 19:42:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:56 | INFO     | [SUCCESS] Sent to faizan.ahmad@telekom-digital.com          company=Telekom Digital  attempt=1
+2026-02-19 19:42:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:42:59 | INFO     | [SUCCESS] Sent to anurag.tiwari@telekom-digital.com         company=Telekom Digital  attempt=1
+2026-02-19 19:42:59 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:02 | INFO     | [SUCCESS] Sent to hr@telekom-digital.com                    company=Telekom Digital  attempt=1
+2026-02-19 19:43:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:05 | INFO     | [SUCCESS] Sent to careers@telekom-digital.com               company=Telekom Digital  attempt=1
+2026-02-19 19:43:05 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:43:15 | INFO     | [5/22] Processing: Calsoftinc (5 recipient(s))
+2026-02-19 19:43:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:17 | INFO     | [SUCCESS] Sent to natasha.joshi@calsoftinc.com              company=Calsoftinc  attempt=1
+2026-02-19 19:43:17 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:20 | INFO     | [SUCCESS] Sent to pranav.salve@calsoftinc.com               company=Calsoftinc  attempt=1
+2026-02-19 19:43:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:22 | INFO     | [SUCCESS] Sent to bhagyshree.adagale@calsoftinc.com         company=Calsoftinc  attempt=1
+2026-02-19 19:43:22 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:25 | INFO     | [SUCCESS] Sent to hr@calsoftinc.com                         company=Calsoftinc  attempt=1
+2026-02-19 19:43:25 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:28 | INFO     | [SUCCESS] Sent to careers@calsoftinc.com                    company=Calsoftinc  attempt=1
+2026-02-19 19:43:28 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:43:38 | INFO     | [6/22] Processing: Rapyder (6 recipient(s))
+2026-02-19 19:43:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:40 | INFO     | [SUCCESS] Sent to tamali.ghosh@rapyder.com                  company=Rapyder  attempt=1
+2026-02-19 19:43:40 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:43 | INFO     | [SUCCESS] Sent to shreya.bh@rapyder.com                     company=Rapyder  attempt=1
+2026-02-19 19:43:43 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:45 | INFO     | [SUCCESS] Sent to devi.prasad@rapyder.com                   company=Rapyder  attempt=1
+2026-02-19 19:43:45 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:48 | INFO     | [SUCCESS] Sent to ta@rapyder.com                            company=Rapyder  attempt=1
+2026-02-19 19:43:48 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:50 | INFO     | [SUCCESS] Sent to hr@rapyder.com                            company=Rapyder  attempt=1
+2026-02-19 19:43:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:43:53 | INFO     | [SUCCESS] Sent to careers@rapyder.com                       company=Rapyder  attempt=1
+2026-02-19 19:43:53 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:44:03 | INFO     | [7/22] Processing: Nttdata (4 recipient(s))
+2026-02-19 19:44:03 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:05 | INFO     | [SUCCESS] Sent to roja11.karri@nttdata.com                  company=Nttdata  attempt=1
+2026-02-19 19:44:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:08 | INFO     | [SUCCESS] Sent to sohit.pruthi@nttdata.com                  company=Nttdata  attempt=1
+2026-02-19 19:44:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:11 | INFO     | [SUCCESS] Sent to hr@nttdata.com                            company=Nttdata  attempt=1
+2026-02-19 19:44:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:14 | INFO     | [SUCCESS] Sent to careers@nttdata.com                       company=Nttdata  attempt=1
+2026-02-19 19:44:14 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:44:24 | INFO     | [8/22] Processing: Deqode (4 recipient(s))
+2026-02-19 19:44:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:26 | INFO     | [SUCCESS] Sent to ayyadav@deqode.com                        company=Deqode  attempt=1
+2026-02-19 19:44:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:29 | INFO     | [SUCCESS] Sent to aldubey@deqode.com                        company=Deqode  attempt=1
+2026-02-19 19:44:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:31 | INFO     | [SUCCESS] Sent to hr@deqode.com                             company=Deqode  attempt=1
+2026-02-19 19:44:31 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:34 | INFO     | [SUCCESS] Sent to careers@deqode.com                        company=Deqode  attempt=1
+2026-02-19 19:44:34 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:44:44 | INFO     | [9/22] Processing: Einfochips (4 recipient(s))
+2026-02-19 19:44:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:47 | INFO     | [SUCCESS] Sent to gourav.pandey@einfochips.com              company=Einfochips  attempt=1
+2026-02-19 19:44:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:49 | INFO     | [SUCCESS] Sent to ayushi.singh@einfochips.com               company=Einfochips  attempt=1
+2026-02-19 19:44:49 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:52 | INFO     | [SUCCESS] Sent to hr@einfochips.com                         company=Einfochips  attempt=1
+2026-02-19 19:44:52 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:44:55 | INFO     | [SUCCESS] Sent to careers@einfochips.com                    company=Einfochips  attempt=1
+2026-02-19 19:44:55 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:45:05 | INFO     | [10/22] Processing: Mwidm (5 recipient(s))
+2026-02-19 19:45:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:08 | INFO     | [SUCCESS] Sent to pallavi.kaushal@mwidm.com                 company=Mwidm  attempt=1
+2026-02-19 19:45:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:10 | INFO     | [SUCCESS] Sent to ramanpreet.kaur@mwidm.com                 company=Mwidm  attempt=1
+2026-02-19 19:45:10 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:13 | INFO     | [SUCCESS] Sent to manpreet.kaur@mwidm.com                   company=Mwidm  attempt=1
+2026-02-19 19:45:13 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:15 | INFO     | [SUCCESS] Sent to hr@mwidm.com                              company=Mwidm  attempt=1
+2026-02-19 19:45:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:17 | INFO     | [SUCCESS] Sent to careers@mwidm.com                         company=Mwidm  attempt=1
+2026-02-19 19:45:17 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:45:27 | INFO     | [11/22] Processing: Netsmartz (4 recipient(s))
+2026-02-19 19:45:27 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:30 | INFO     | [SUCCESS] Sent to khushboo.jangra@netsmartz.com             company=Netsmartz  attempt=1
+2026-02-19 19:45:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:33 | INFO     | [SUCCESS] Sent to shradha.arora@netsmartz.com               company=Netsmartz  attempt=1
+2026-02-19 19:45:33 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:36 | INFO     | [SUCCESS] Sent to hr@netsmartz.com                          company=Netsmartz  attempt=1
+2026-02-19 19:45:36 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:39 | INFO     | [SUCCESS] Sent to careers@netsmartz.com                     company=Netsmartz  attempt=1
+2026-02-19 19:45:39 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:45:49 | INFO     | [12/22] Processing: Thoughtwin (4 recipient(s))
+2026-02-19 19:45:49 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:52 | INFO     | [SUCCESS] Sent to nidhisundrela@thoughtwin.com              company=Thoughtwin  attempt=1
+2026-02-19 19:45:52 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:54 | INFO     | [SUCCESS] Sent to career@thoughtwin.com                     company=Thoughtwin  attempt=1
+2026-02-19 19:45:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:45:57 | INFO     | [SUCCESS] Sent to hr@thoughtwin.com                         company=Thoughtwin  attempt=1
+2026-02-19 19:45:57 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:00 | INFO     | [SUCCESS] Sent to careers@thoughtwin.com                    company=Thoughtwin  attempt=1
+2026-02-19 19:46:00 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:46:10 | INFO     | [13/22] Processing: Walkingtree (4 recipient(s))
+2026-02-19 19:46:10 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:12 | INFO     | [SUCCESS] Sent to disha.jain@walkingtree.tech               company=Walkingtree  attempt=1
+2026-02-19 19:46:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:15 | INFO     | [SUCCESS] Sent to diya.agrawal@walkingtree.tech             company=Walkingtree  attempt=1
+2026-02-19 19:46:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:18 | INFO     | [SUCCESS] Sent to hr@walkingtree.tech                       company=Walkingtree  attempt=1
+2026-02-19 19:46:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:20 | INFO     | [SUCCESS] Sent to careers@walkingtree.tech                  company=Walkingtree  attempt=1
+2026-02-19 19:46:20 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:46:30 | INFO     | [14/22] Processing: Bestpeers (4 recipient(s))
+2026-02-19 19:46:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:33 | INFO     | [SUCCESS] Sent to bhbharadwaj@bestpeers.com                 company=Bestpeers  attempt=1
+2026-02-19 19:46:33 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:35 | INFO     | [SUCCESS] Sent to myadav@bestpeers.com                      company=Bestpeers  attempt=1
+2026-02-19 19:46:35 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:38 | INFO     | [SUCCESS] Sent to hr@bestpeers.com                          company=Bestpeers  attempt=1
+2026-02-19 19:46:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:40 | INFO     | [SUCCESS] Sent to careers@bestpeers.com                     company=Bestpeers  attempt=1
+2026-02-19 19:46:40 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:46:50 | INFO     | [15/22] Processing: Cloudzappy (3 recipient(s))
+2026-02-19 19:46:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:53 | INFO     | [SUCCESS] Sent to hr@cloudzappy.com                         company=Cloudzappy  attempt=1
+2026-02-19 19:46:53 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:56 | INFO     | [SUCCESS] Sent to vaishavisoni@cloudzappy.com               company=Cloudzappy  attempt=1
+2026-02-19 19:46:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:46:59 | INFO     | [SUCCESS] Sent to careers@cloudzappy.com                    company=Cloudzappy  attempt=1
+2026-02-19 19:46:59 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:47:09 | INFO     | [16/22] Processing: Divergentsl (3 recipient(s))
+2026-02-19 19:47:09 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:11 | INFO     | [SUCCESS] Sent to anna@divergentsl.com                      company=Divergentsl  attempt=1
+2026-02-19 19:47:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:14 | INFO     | [SUCCESS] Sent to hr@divergentsl.com                        company=Divergentsl  attempt=1
+2026-02-19 19:47:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:17 | INFO     | [SUCCESS] Sent to careers@divergentsl.com                   company=Divergentsl  attempt=1
+2026-02-19 19:47:17 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:47:27 | INFO     | [17/22] Processing: Gate6 (3 recipient(s))
+2026-02-19 19:47:27 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:29 | INFO     | [SUCCESS] Sent to hr@gate6.com                              company=Gate6  attempt=1
+2026-02-19 19:47:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:31 | INFO     | [SUCCESS] Sent to adytiparashar@gate6.com                   company=Gate6  attempt=1
+2026-02-19 19:47:31 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:34 | INFO     | [SUCCESS] Sent to careers@gate6.com                         company=Gate6  attempt=1
+2026-02-19 19:47:34 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:47:44 | INFO     | [18/22] Processing: Bitcot (4 recipient(s))
+2026-02-19 19:47:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:47 | INFO     | [SUCCESS] Sent to romitjain@bitcot.com                      company=Bitcot  attempt=1
+2026-02-19 19:47:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:50 | INFO     | [SUCCESS] Sent to akanshadubey@bitcot.com                   company=Bitcot  attempt=1
+2026-02-19 19:47:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:52 | INFO     | [SUCCESS] Sent to hr@bitcot.com                             company=Bitcot  attempt=1
+2026-02-19 19:47:52 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:47:55 | INFO     | [SUCCESS] Sent to careers@bitcot.com                        company=Bitcot  attempt=1
+2026-02-19 19:47:55 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:48:05 | INFO     | [19/22] Processing: Xtranetindia (2 recipient(s))
+2026-02-19 19:48:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:08 | INFO     | [SUCCESS] Sent to hr@xtranetindia.com                       company=Xtranetindia  attempt=1
+2026-02-19 19:48:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:13 | INFO     | [SUCCESS] Sent to careers@xtranetindia.com                  company=Xtranetindia  attempt=1
+2026-02-19 19:48:13 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:48:23 | INFO     | [20/22] Processing: Zensar (3 recipient(s))
+2026-02-19 19:48:23 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:26 | INFO     | [SUCCESS] Sent to rituraj.patel@zensar.com                  company=Zensar  attempt=1
+2026-02-19 19:48:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:28 | INFO     | [SUCCESS] Sent to hr@zensar.com                             company=Zensar  attempt=1
+2026-02-19 19:48:28 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:31 | INFO     | [SUCCESS] Sent to careers@zensar.com                        company=Zensar  attempt=1
+2026-02-19 19:48:31 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:48:41 | INFO     | [21/22] Processing: Squareyards (3 recipient(s))
+2026-02-19 19:48:42 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:44 | INFO     | [SUCCESS] Sent to rupali.dhuriya@squareyards.co.in          company=Squareyards  attempt=1
+2026-02-19 19:48:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:47 | INFO     | [SUCCESS] Sent to hr@squareyards.co.in                      company=Squareyards  attempt=1
+2026-02-19 19:48:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:48:49 | INFO     | [SUCCESS] Sent to careers@squareyards.co.in                 company=Squareyards  attempt=1
+2026-02-19 19:48:49 | DEBUG    | Sleeping 10s before next company…
+2026-02-19 19:49:00 | INFO     | [22/22] Processing: Vinove (3 recipient(s))
+2026-02-19 19:49:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:49:02 | INFO     | [SUCCESS] Sent to harsimran@vinove.com                      company=Vinove  attempt=1
+2026-02-19 19:49:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:49:05 | INFO     | [SUCCESS] Sent to hr@vinove.com                             company=Vinove  attempt=1
+2026-02-19 19:49:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume-2.pdf
+2026-02-19 19:49:08 | INFO     | [SUCCESS] Sent to careers@vinove.com                        company=Vinove  attempt=1
+2026-02-19 19:49:08 | INFO     | ============================================================
+2026-02-19 19:49:08 | INFO     | RUN COMPLETE
+2026-02-19 19:49:08 | INFO     |   Sent    : 82
+2026-02-19 19:49:08 | INFO     |   Failed  : 0
+2026-02-19 19:49:08 | INFO     |   Skipped : 0
+2026-02-19 19:49:08 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-19 19:49:08 | INFO     | ============================================================
+2026-02-24 21:27:40 | INFO     | ============================================================
+2026-02-24 21:27:40 | INFO     | Cold Email Sender — 2026-02-24 21:27:40
+2026-02-24 21:27:40 | INFO     | Resume : resume.pdf
+2026-02-24 21:27:40 | INFO     | ============================================================
+2026-02-24 21:27:40 | CRITICAL | Environment variables SENDER_EMAIL and/or GMAIL_APP_PASS are not set.
+  Linux/macOS : export SENDER_EMAIL='you@gmail.com'
+                export GMAIL_APP_PASS='xxxx xxxx xxxx xxxx'
+  Windows CMD : set SENDER_EMAIL=you@gmail.com
+                set GMAIL_APP_PASS=xxxx xxxx xxxx xxxx
+2026-02-24 21:32:41 | INFO     | ============================================================
+2026-02-24 21:32:41 | INFO     | Cold Email Sender — 2026-02-24 21:32:41
+2026-02-24 21:32:41 | INFO     | Resume : resume.pdf
+2026-02-24 21:32:41 | INFO     | ============================================================
+2026-02-24 21:32:41 | CRITICAL | Environment variables SENDER_EMAIL and/or GMAIL_APP_PASS are not set.
+  Linux/macOS : export SENDER_EMAIL='you@gmail.com'
+                export GMAIL_APP_PASS='xxxx xxxx xxxx xxxx'
+  Windows CMD : set SENDER_EMAIL=you@gmail.com
+                set GMAIL_APP_PASS=xxxx xxxx xxxx xxxx
+2026-02-24 21:37:12 | INFO     | ============================================================
+2026-02-24 21:37:12 | INFO     | Cold Email Sender — 2026-02-24 21:37:12
+2026-02-24 21:37:12 | INFO     | Resume : resume.pdf
+2026-02-24 21:37:12 | INFO     | ============================================================
+2026-02-24 21:37:12 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-24 21:37:15 | CRITICAL | SMTP Authentication Failed! Verify SENDER_EMAIL and GMAIL_APP_PASS are correct, and that 2-Step Verification + App Passwords are enabled on your Google Account.
+2026-02-24 21:37:53 | INFO     | ============================================================
+2026-02-24 21:37:53 | INFO     | Cold Email Sender — 2026-02-24 21:37:53
+2026-02-24 21:37:53 | INFO     | Resume : resume.pdf
+2026-02-24 21:37:53 | INFO     | ============================================================
+2026-02-24 21:37:53 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-24 21:37:56 | CRITICAL | SMTP Authentication Failed! Verify SENDER_EMAIL and GMAIL_APP_PASS are correct, and that 2-Step Verification + App Passwords are enabled on your Google Account.
+2026-02-24 21:40:46 | INFO     | ============================================================
+2026-02-24 21:40:46 | INFO     | Cold Email Sender — 2026-02-24 21:40:46
+2026-02-24 21:40:46 | INFO     | Resume : resume.pdf
+2026-02-24 21:40:46 | INFO     | ============================================================
+2026-02-24 21:40:46 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-24 21:40:48 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-24 21:40:48 | INFO     | ------------------------------------------------------------
+2026-02-24 21:40:48 | INFO     | [1/22] Processing: Desklay (3 recipient(s))
+2026-02-24 21:40:48 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:40:51 | INFO     | [SUCCESS] Sent to apply.now@desklay.com                     company=Desklay  attempt=1
+2026-02-24 21:40:51 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:40:53 | INFO     | [SUCCESS] Sent to hr@desklay.com                            company=Desklay  attempt=1
+2026-02-24 21:40:53 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:40:56 | INFO     | [SUCCESS] Sent to careers@desklay.com                       company=Desklay  attempt=1
+2026-02-24 21:40:56 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:41:06 | INFO     | [2/22] Processing: Techolution (3 recipient(s))
+2026-02-24 21:41:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:09 | INFO     | [SUCCESS] Sent to aishwaryaa.ganesh@techolution.com         company=Techolution  attempt=1
+2026-02-24 21:41:09 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:11 | INFO     | [SUCCESS] Sent to hr@techolution.com                        company=Techolution  attempt=1
+2026-02-24 21:41:11 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:14 | INFO     | [SUCCESS] Sent to careers@techolution.com                   company=Techolution  attempt=1
+2026-02-24 21:41:14 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:41:24 | INFO     | [3/22] Processing: Expleogroup (3 recipient(s))
+2026-02-24 21:41:24 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:26 | INFO     | [SUCCESS] Sent to sargam.gera@expleogroup.com               company=Expleogroup  attempt=1
+2026-02-24 21:41:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:29 | INFO     | [SUCCESS] Sent to hr@expleogroup.com                        company=Expleogroup  attempt=1
+2026-02-24 21:41:29 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:31 | INFO     | [SUCCESS] Sent to careers@expleogroup.com                   company=Expleogroup  attempt=1
+2026-02-24 21:41:31 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:41:41 | INFO     | [4/22] Processing: Telekom Digital (5 recipient(s))
+2026-02-24 21:41:41 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:44 | INFO     | [SUCCESS] Sent to platformhiring@telekom-digital.com        company=Telekom Digital  attempt=1
+2026-02-24 21:41:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:46 | INFO     | [SUCCESS] Sent to faizan.ahmad@telekom-digital.com          company=Telekom Digital  attempt=1
+2026-02-24 21:41:46 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:41:49 | INFO     | [SUCCESS] Sent to anurag.tiwari@telekom-digital.com         company=Telekom Digital  attempt=1
+2026-02-24 21:41:49 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:42:46 | INFO     | ============================================================
+2026-02-24 21:42:46 | INFO     | Cold Email Sender — 2026-02-24 21:42:46
+2026-02-24 21:42:46 | INFO     | Resume : resume.pdf
+2026-02-24 21:42:46 | INFO     | ============================================================
+2026-02-24 21:42:46 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-24 21:42:48 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-24 21:42:48 | INFO     | ------------------------------------------------------------
+2026-02-24 21:42:48 | INFO     | [1/22] Processing: Desklay (3 recipient(s))
+2026-02-24 21:42:48 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:42:51 | INFO     | [SUCCESS] Sent to apply.now@desklay.com                     company=Desklay  attempt=1
+2026-02-24 21:42:51 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:42:54 | INFO     | [SUCCESS] Sent to hr@desklay.com                            company=Desklay  attempt=1
+2026-02-24 21:42:54 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:42:56 | INFO     | [SUCCESS] Sent to careers@desklay.com                       company=Desklay  attempt=1
+2026-02-24 21:42:56 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:42:57 | WARNING  | Interrupted by user.
+2026-02-24 21:42:57 | INFO     | ============================================================
+2026-02-24 21:42:57 | INFO     | RUN COMPLETE
+2026-02-24 21:42:57 | INFO     |   Sent    : 3
+2026-02-24 21:42:57 | INFO     |   Failed  : 0
+2026-02-24 21:42:57 | INFO     |   Skipped : 0
+2026-02-24 21:42:57 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-24 21:42:57 | INFO     | ============================================================
+2026-02-24 21:43:04 | INFO     | ============================================================
+2026-02-24 21:43:04 | INFO     | Cold Email Sender — 2026-02-24 21:43:04
+2026-02-24 21:43:04 | INFO     | Resume : resume.pdf
+2026-02-24 21:43:04 | INFO     | ============================================================
+2026-02-24 21:43:04 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-24 21:43:05 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-24 21:43:05 | INFO     | ------------------------------------------------------------
+2026-02-24 21:43:05 | INFO     | [1/23] Processing: Codetokloud (2 recipient(s))
+2026-02-24 21:43:05 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:08 | INFO     | [SUCCESS] Sent to hr@codetokloud.com                        company=Codetokloud  attempt=1
+2026-02-24 21:43:08 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:10 | INFO     | [SUCCESS] Sent to careers@codetokloud.com                   company=Codetokloud  attempt=1
+2026-02-24 21:43:10 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:43:20 | INFO     | [2/23] Processing: Inheritx (3 recipient(s))
+2026-02-24 21:43:20 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:23 | INFO     | [SUCCESS] Sent to priya.b@inheritx.com                      company=Inheritx  attempt=1
+2026-02-24 21:43:23 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:26 | INFO     | [SUCCESS] Sent to hr@inheritx.com                           company=Inheritx  attempt=1
+2026-02-24 21:43:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:28 | INFO     | [SUCCESS] Sent to careers@inheritx.com                      company=Inheritx  attempt=1
+2026-02-24 21:43:28 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:43:38 | INFO     | [3/23] Processing: Webspero (3 recipient(s))
+2026-02-24 21:43:38 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:41 | INFO     | [SUCCESS] Sent to komal@webspero.com                        company=Webspero  attempt=1
+2026-02-24 21:43:41 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:44 | INFO     | [SUCCESS] Sent to hr@webspero.com                           company=Webspero  attempt=1
+2026-02-24 21:43:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:47 | INFO     | [SUCCESS] Sent to careers@webspero.com                      company=Webspero  attempt=1
+2026-02-24 21:43:47 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:43:57 | INFO     | [4/23] Processing: Survatra (3 recipient(s))
+2026-02-24 21:43:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:43:59 | INFO     | [SUCCESS] Sent to mayurakshi.sarkar@survatra.com            company=Survatra  attempt=1
+2026-02-24 21:43:59 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:01 | INFO     | [SUCCESS] Sent to hr@survatra.com                           company=Survatra  attempt=1
+2026-02-24 21:44:01 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:04 | INFO     | [SUCCESS] Sent to careers@survatra.com                      company=Survatra  attempt=1
+2026-02-24 21:44:04 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:44:14 | INFO     | [5/23] Processing: Gammaedge (3 recipient(s))
+2026-02-24 21:44:14 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:17 | INFO     | [SUCCESS] Sent to aakanksha.singh@gammaedge.io              company=Gammaedge  attempt=1
+2026-02-24 21:44:17 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:19 | INFO     | [SUCCESS] Sent to hr@gammaedge.io                           company=Gammaedge  attempt=1
+2026-02-24 21:44:19 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:22 | INFO     | [SUCCESS] Sent to careers@gammaedge.io                      company=Gammaedge  attempt=1
+2026-02-24 21:44:22 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:44:32 | INFO     | [6/23] Processing: Flightsmojo (3 recipient(s))
+2026-02-24 21:44:32 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:34 | INFO     | [SUCCESS] Sent to neha@flightsmojo.in                       company=Flightsmojo  attempt=1
+2026-02-24 21:44:34 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:37 | INFO     | [SUCCESS] Sent to hr@flightsmojo.in                         company=Flightsmojo  attempt=1
+2026-02-24 21:44:37 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:39 | INFO     | [SUCCESS] Sent to careers@flightsmojo.in                    company=Flightsmojo  attempt=1
+2026-02-24 21:44:39 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:44:49 | INFO     | [7/23] Processing: Empower Solutions (2 recipient(s))
+2026-02-24 21:44:49 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:52 | INFO     | [SUCCESS] Sent to careers@empower-solutions.com             company=Empower Solutions  attempt=1
+2026-02-24 21:44:52 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:44:54 | INFO     | [SUCCESS] Sent to hr@empower-solutions.com                  company=Empower Solutions  attempt=1
+2026-02-24 21:44:54 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:45:04 | INFO     | [8/23] Processing: Ecodesoft (2 recipient(s))
+2026-02-24 21:45:04 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:06 | INFO     | [SUCCESS] Sent to hr@ecodesoft.com                          company=Ecodesoft  attempt=1
+2026-02-24 21:45:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:09 | INFO     | [SUCCESS] Sent to careers@ecodesoft.com                     company=Ecodesoft  attempt=1
+2026-02-24 21:45:09 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:45:19 | INFO     | [9/23] Processing: Thrivesolutions (2 recipient(s))
+2026-02-24 21:45:19 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:21 | INFO     | [SUCCESS] Sent to hr@thrivesolutions.co.in                  company=Thrivesolutions  attempt=1
+2026-02-24 21:45:21 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:24 | INFO     | [SUCCESS] Sent to careers@thrivesolutions.co.in             company=Thrivesolutions  attempt=1
+2026-02-24 21:45:24 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:45:34 | INFO     | [10/23] Processing: Avologypro (2 recipient(s))
+2026-02-24 21:45:34 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:36 | INFO     | [SUCCESS] Sent to hr@avologypro.com                         company=Avologypro  attempt=1
+2026-02-24 21:45:36 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:39 | INFO     | [SUCCESS] Sent to careers@avologypro.com                    company=Avologypro  attempt=1
+2026-02-24 21:45:39 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:45:49 | INFO     | [11/23] Processing: Vastekgroup (3 recipient(s))
+2026-02-24 21:45:49 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:52 | INFO     | [SUCCESS] Sent to asad.saifi@vastekgroup.com                company=Vastekgroup  attempt=1
+2026-02-24 21:45:52 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:54 | INFO     | [SUCCESS] Sent to hr@vastekgroup.com                        company=Vastekgroup  attempt=1
+2026-02-24 21:45:54 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:45:57 | INFO     | [SUCCESS] Sent to careers@vastekgroup.com                   company=Vastekgroup  attempt=1
+2026-02-24 21:45:57 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:46:07 | INFO     | [12/23] Processing: Nagarsoftwaresolution (2 recipient(s))
+2026-02-24 21:46:07 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:09 | INFO     | [SUCCESS] Sent to hr@nagarsoftwaresolution.com              company=Nagarsoftwaresolution  attempt=1
+2026-02-24 21:46:09 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:12 | INFO     | [SUCCESS] Sent to careers@nagarsoftwaresolution.com         company=Nagarsoftwaresolution  attempt=1
+2026-02-24 21:46:12 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:46:22 | INFO     | [13/23] Processing: Esferasoft (3 recipient(s))
+2026-02-24 21:46:22 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:25 | INFO     | [SUCCESS] Sent to hr_executive@esferasoft.com               company=Esferasoft  attempt=1
+2026-02-24 21:46:25 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:27 | INFO     | [SUCCESS] Sent to hr@esferasoft.com                         company=Esferasoft  attempt=1
+2026-02-24 21:46:27 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:30 | INFO     | [SUCCESS] Sent to careers@esferasoft.com                    company=Esferasoft  attempt=1
+2026-02-24 21:46:30 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:46:40 | INFO     | [14/23] Processing: Moreyeahs (3 recipient(s))
+2026-02-24 21:46:40 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:42 | INFO     | [SUCCESS] Sent to prachi.jain@moreyeahs.com                 company=Moreyeahs  attempt=1
+2026-02-24 21:46:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:44 | INFO     | [SUCCESS] Sent to hr@moreyeahs.com                          company=Moreyeahs  attempt=1
+2026-02-24 21:46:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:46:47 | INFO     | [SUCCESS] Sent to careers@moreyeahs.com                     company=Moreyeahs  attempt=1
+2026-02-24 21:46:47 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:46:57 | INFO     | [15/23] Processing: Deftboxsolutions (2 recipient(s))
+2026-02-24 21:46:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:00 | INFO     | [SUCCESS] Sent to careers@deftboxsolutions.com              company=Deftboxsolutions  attempt=1
+2026-02-24 21:47:00 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:02 | INFO     | [SUCCESS] Sent to hr@deftboxsolutions.com                   company=Deftboxsolutions  attempt=1
+2026-02-24 21:47:02 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:47:12 | INFO     | [16/23] Processing: Brandsmashers (3 recipient(s))
+2026-02-24 21:47:12 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:15 | INFO     | [SUCCESS] Sent to info@brandsmashers.com                    company=Brandsmashers  attempt=1
+2026-02-24 21:47:15 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:18 | INFO     | [SUCCESS] Sent to hr@brandsmashers.com                      company=Brandsmashers  attempt=1
+2026-02-24 21:47:18 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:21 | INFO     | [SUCCESS] Sent to careers@brandsmashers.com                 company=Brandsmashers  attempt=1
+2026-02-24 21:47:21 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:47:31 | INFO     | [17/23] Processing: Appsquadz (3 recipient(s))
+2026-02-24 21:47:31 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:33 | INFO     | [SUCCESS] Sent to neeru@appsquadz.com                       company=Appsquadz  attempt=1
+2026-02-24 21:47:33 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:36 | INFO     | [SUCCESS] Sent to hr@appsquadz.com                          company=Appsquadz  attempt=1
+2026-02-24 21:47:36 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:38 | INFO     | [SUCCESS] Sent to careers@appsquadz.com                     company=Appsquadz  attempt=1
+2026-02-24 21:47:38 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:47:48 | INFO     | [18/23] Processing: Techifysolutions (3 recipient(s))
+2026-02-24 21:47:48 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:51 | INFO     | [SUCCESS] Sent to jobs@techifysolutions.com                 company=Techifysolutions  attempt=1
+2026-02-24 21:47:51 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:53 | INFO     | [SUCCESS] Sent to hr@techifysolutions.com                   company=Techifysolutions  attempt=1
+2026-02-24 21:47:53 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:47:56 | INFO     | [SUCCESS] Sent to careers@techifysolutions.com              company=Techifysolutions  attempt=1
+2026-02-24 21:47:56 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:48:06 | INFO     | [19/23] Processing: Ideyalabs (3 recipient(s))
+2026-02-24 21:48:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:08 | INFO     | [SUCCESS] Sent to Sruthik@ideyalabs.com                     company=Ideyalabs  attempt=1
+2026-02-24 21:48:08 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:11 | INFO     | [SUCCESS] Sent to hr@ideyalabs.com                          company=Ideyalabs  attempt=1
+2026-02-24 21:48:11 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:13 | INFO     | [SUCCESS] Sent to careers@ideyalabs.com                     company=Ideyalabs  attempt=1
+2026-02-24 21:48:13 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:48:23 | INFO     | [20/23] Processing: Moontechnolabs (3 recipient(s))
+2026-02-24 21:48:23 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:26 | INFO     | [SUCCESS] Sent to mansi@moontechnolabs.com                  company=Moontechnolabs  attempt=1
+2026-02-24 21:48:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:29 | INFO     | [SUCCESS] Sent to hr@moontechnolabs.com                     company=Moontechnolabs  attempt=1
+2026-02-24 21:48:29 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:32 | INFO     | [SUCCESS] Sent to careers@moontechnolabs.com                company=Moontechnolabs  attempt=1
+2026-02-24 21:48:32 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:48:42 | INFO     | [21/23] Processing: Ajacs (3 recipient(s))
+2026-02-24 21:48:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:44 | INFO     | [SUCCESS] Sent to s.gundepally@ajacs.in                     company=Ajacs  attempt=1
+2026-02-24 21:48:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:46 | INFO     | [SUCCESS] Sent to hr@ajacs.in                               company=Ajacs  attempt=1
+2026-02-24 21:48:46 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:48:48 | INFO     | [SUCCESS] Sent to careers@ajacs.in                          company=Ajacs  attempt=1
+2026-02-24 21:48:48 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:48:58 | INFO     | [22/23] Processing: Deqode (2 recipient(s))
+2026-02-24 21:48:58 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:01 | INFO     | [SUCCESS] Sent to hr@deqode.com                             company=Deqode  attempt=1
+2026-02-24 21:49:01 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:03 | INFO     | [SUCCESS] Sent to careers@deqode.com                        company=Deqode  attempt=1
+2026-02-24 21:49:03 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:49:13 | INFO     | [23/23] Processing: Zehntech (2 recipient(s))
+2026-02-24 21:49:13 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:16 | INFO     | [SUCCESS] Sent to hr@zehntech.com                           company=Zehntech  attempt=1
+2026-02-24 21:49:16 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:18 | INFO     | [SUCCESS] Sent to careers@zehntech.com                      company=Zehntech  attempt=1
+2026-02-24 21:49:19 | INFO     | ============================================================
+2026-02-24 21:49:19 | INFO     | RUN COMPLETE
+2026-02-24 21:49:19 | INFO     |   Sent    : 60
+2026-02-24 21:49:19 | INFO     |   Failed  : 0
+2026-02-24 21:49:19 | INFO     |   Skipped : 0
+2026-02-24 21:49:19 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-24 21:49:19 | INFO     | ============================================================
+2026-02-24 21:49:37 | INFO     | ============================================================
+2026-02-24 21:49:37 | INFO     | Cold Email Sender — 2026-02-24 21:49:37
+2026-02-24 21:49:37 | INFO     | Resume : resume.pdf
+2026-02-24 21:49:37 | INFO     | ============================================================
+2026-02-24 21:49:37 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-24 21:49:39 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-24 21:49:39 | INFO     | ------------------------------------------------------------
+2026-02-24 21:49:39 | INFO     | [1/46] Processing: Modulrfinance (3 recipient(s))
+2026-02-24 21:49:39 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:41 | INFO     | [SUCCESS] Sent to swati.seksaria@modulrfinance.com          company=Modulrfinance  attempt=1
+2026-02-24 21:49:41 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:44 | INFO     | [SUCCESS] Sent to hr@modulrfinance.com                      company=Modulrfinance  attempt=1
+2026-02-24 21:49:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:46 | INFO     | [SUCCESS] Sent to careers@modulrfinance.com                 company=Modulrfinance  attempt=1
+2026-02-24 21:49:46 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:49:56 | INFO     | [2/46] Processing: Clear Trail (3 recipient(s))
+2026-02-24 21:49:56 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:49:59 | INFO     | [SUCCESS] Sent to neha.i.patel@clear-trail.com              company=Clear Trail  attempt=1
+2026-02-24 21:49:59 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:01 | INFO     | [SUCCESS] Sent to hr@clear-trail.com                        company=Clear Trail  attempt=1
+2026-02-24 21:50:01 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:04 | INFO     | [SUCCESS] Sent to careers@clear-trail.com                   company=Clear Trail  attempt=1
+2026-02-24 21:50:04 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:50:14 | INFO     | [3/46] Processing: Greenhonchos (3 recipient(s))
+2026-02-24 21:50:14 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:17 | INFO     | [SUCCESS] Sent to goutham.kumar@greenhonchos.com            company=Greenhonchos  attempt=1
+2026-02-24 21:50:17 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:19 | INFO     | [SUCCESS] Sent to hr@greenhonchos.com                       company=Greenhonchos  attempt=1
+2026-02-24 21:50:19 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:22 | INFO     | [SUCCESS] Sent to careers@greenhonchos.com                  company=Greenhonchos  attempt=1
+2026-02-24 21:50:22 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:50:32 | INFO     | [4/46] Processing: Frequence (3 recipient(s))
+2026-02-24 21:50:32 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:35 | INFO     | [SUCCESS] Sent to hr-india@frequence.com                    company=Frequence  attempt=1
+2026-02-24 21:50:35 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:37 | INFO     | [SUCCESS] Sent to hr@frequence.com                          company=Frequence  attempt=1
+2026-02-24 21:50:37 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:40 | INFO     | [SUCCESS] Sent to careers@frequence.com                     company=Frequence  attempt=1
+2026-02-24 21:50:40 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:50:50 | INFO     | [5/46] Processing: Springct (3 recipient(s))
+2026-02-24 21:50:50 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:53 | INFO     | [SUCCESS] Sent to nilisha.kothari@springct.com              company=Springct  attempt=1
+2026-02-24 21:50:53 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:56 | INFO     | [SUCCESS] Sent to hr@springct.com                           company=Springct  attempt=1
+2026-02-24 21:50:56 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:50:58 | INFO     | [SUCCESS] Sent to careers@springct.com                      company=Springct  attempt=1
+2026-02-24 21:50:58 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:51:08 | INFO     | [6/46] Processing: Tekshapers (3 recipient(s))
+2026-02-24 21:51:08 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:11 | INFO     | [SUCCESS] Sent to dipinti@tekshapers.com                    company=Tekshapers  attempt=1
+2026-02-24 21:51:11 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:13 | INFO     | [SUCCESS] Sent to hr@tekshapers.com                         company=Tekshapers  attempt=1
+2026-02-24 21:51:13 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:16 | INFO     | [SUCCESS] Sent to careers@tekshapers.com                    company=Tekshapers  attempt=1
+2026-02-24 21:51:16 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:51:26 | INFO     | [7/46] Processing: Caxsol (3 recipient(s))
+2026-02-24 21:51:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:29 | INFO     | [SUCCESS] Sent to hardik.patel@caxsol.com                   company=Caxsol  attempt=1
+2026-02-24 21:51:29 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:31 | INFO     | [SUCCESS] Sent to hr@caxsol.com                             company=Caxsol  attempt=1
+2026-02-24 21:51:31 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:34 | INFO     | [SUCCESS] Sent to careers@caxsol.com                        company=Caxsol  attempt=1
+2026-02-24 21:51:34 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:51:44 | INFO     | [8/46] Processing: Xpertladr (3 recipient(s))
+2026-02-24 21:51:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:46 | INFO     | [SUCCESS] Sent to sonali@xpertladr.com                      company=Xpertladr  attempt=1
+2026-02-24 21:51:46 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:48 | INFO     | [SUCCESS] Sent to hr@xpertladr.com                          company=Xpertladr  attempt=1
+2026-02-24 21:51:48 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:51:51 | INFO     | [SUCCESS] Sent to careers@xpertladr.com                     company=Xpertladr  attempt=1
+2026-02-24 21:51:51 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:52:01 | INFO     | [9/46] Processing: Andersenlab (3 recipient(s))
+2026-02-24 21:52:01 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:04 | INFO     | [SUCCESS] Sent to k.vinnikava@andersenlab.com               company=Andersenlab  attempt=1
+2026-02-24 21:52:04 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:06 | INFO     | [SUCCESS] Sent to hr@andersenlab.com                        company=Andersenlab  attempt=1
+2026-02-24 21:52:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:09 | INFO     | [SUCCESS] Sent to careers@andersenlab.com                   company=Andersenlab  attempt=1
+2026-02-24 21:52:09 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:52:19 | INFO     | [10/46] Processing: Nucleusteq (3 recipient(s))
+2026-02-24 21:52:19 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:22 | INFO     | [SUCCESS] Sent to garima.modi@nucleusteq.com                company=Nucleusteq  attempt=1
+2026-02-24 21:52:22 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:24 | INFO     | [SUCCESS] Sent to hr@nucleusteq.com                         company=Nucleusteq  attempt=1
+2026-02-24 21:52:24 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:27 | INFO     | [SUCCESS] Sent to careers@nucleusteq.com                    company=Nucleusteq  attempt=1
+2026-02-24 21:52:27 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:52:37 | INFO     | [11/46] Processing: Heerasoftware (3 recipient(s))
+2026-02-24 21:52:37 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:40 | INFO     | [SUCCESS] Sent to jobs@heerasoftware.com                    company=Heerasoftware  attempt=1
+2026-02-24 21:52:40 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:42 | INFO     | [SUCCESS] Sent to hr@heerasoftware.com                      company=Heerasoftware  attempt=1
+2026-02-24 21:52:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:45 | INFO     | [SUCCESS] Sent to careers@heerasoftware.com                 company=Heerasoftware  attempt=1
+2026-02-24 21:52:45 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:52:55 | INFO     | [12/46] Processing: Novaklickglobal (3 recipient(s))
+2026-02-24 21:52:55 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:52:57 | INFO     | [SUCCESS] Sent to pranalikamble@novaklickglobal.com         company=Novaklickglobal  attempt=1
+2026-02-24 21:52:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:00 | INFO     | [SUCCESS] Sent to hr@novaklickglobal.com                    company=Novaklickglobal  attempt=1
+2026-02-24 21:53:00 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:03 | INFO     | [SUCCESS] Sent to careers@novaklickglobal.com               company=Novaklickglobal  attempt=1
+2026-02-24 21:53:03 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:53:13 | INFO     | [13/46] Processing: Akshayaitsolutions (3 recipient(s))
+2026-02-24 21:53:13 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:15 | INFO     | [SUCCESS] Sent to bhuvanasri@akshayaitsolutions.com         company=Akshayaitsolutions  attempt=1
+2026-02-24 21:53:15 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:18 | INFO     | [SUCCESS] Sent to hr@akshayaitsolutions.com                 company=Akshayaitsolutions  attempt=1
+2026-02-24 21:53:18 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:21 | INFO     | [SUCCESS] Sent to careers@akshayaitsolutions.com            company=Akshayaitsolutions  attempt=1
+2026-02-24 21:53:21 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:53:31 | INFO     | [14/46] Processing: Fiftyfivetech (3 recipient(s))
+2026-02-24 21:53:31 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:33 | INFO     | [SUCCESS] Sent to diya.asnani@fiftyfivetech.io              company=Fiftyfivetech  attempt=1
+2026-02-24 21:53:33 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:36 | INFO     | [SUCCESS] Sent to hr@fiftyfivetech.io                       company=Fiftyfivetech  attempt=1
+2026-02-24 21:53:37 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:39 | INFO     | [SUCCESS] Sent to careers@fiftyfivetech.io                  company=Fiftyfivetech  attempt=1
+2026-02-24 21:53:39 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:53:49 | INFO     | [15/46] Processing: Gotrust (3 recipient(s))
+2026-02-24 21:53:49 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:54 | INFO     | [SUCCESS] Sent to sneha@gotrust.tech                        company=Gotrust  attempt=1
+2026-02-24 21:53:54 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:53:57 | INFO     | [SUCCESS] Sent to hr@gotrust.tech                           company=Gotrust  attempt=1
+2026-02-24 21:53:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:00 | INFO     | [SUCCESS] Sent to careers@gotrust.tech                      company=Gotrust  attempt=1
+2026-02-24 21:54:00 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:54:10 | INFO     | [16/46] Processing: Delphic (3 recipient(s))
+2026-02-24 21:54:10 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:12 | INFO     | [SUCCESS] Sent to krishna.thakkar@delphic.in                company=Delphic  attempt=1
+2026-02-24 21:54:12 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:15 | INFO     | [SUCCESS] Sent to hr@delphic.in                             company=Delphic  attempt=1
+2026-02-24 21:54:15 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:18 | INFO     | [SUCCESS] Sent to careers@delphic.in                        company=Delphic  attempt=1
+2026-02-24 21:54:18 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:54:28 | INFO     | [17/46] Processing: Savishty (2 recipient(s))
+2026-02-24 21:54:28 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:30 | INFO     | [SUCCESS] Sent to hr@savishty.com                           company=Savishty  attempt=1
+2026-02-24 21:54:30 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:33 | INFO     | [SUCCESS] Sent to careers@savishty.com                      company=Savishty  attempt=1
+2026-02-24 21:54:33 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:54:43 | INFO     | [18/46] Processing: Bigitjobs (3 recipient(s))
+2026-02-24 21:54:43 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:46 | INFO     | [SUCCESS] Sent to hr03@bigitjobs.com                        company=Bigitjobs  attempt=1
+2026-02-24 21:54:46 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:49 | INFO     | [SUCCESS] Sent to hr@bigitjobs.com                          company=Bigitjobs  attempt=1
+2026-02-24 21:54:49 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:54:52 | INFO     | [SUCCESS] Sent to careers@bigitjobs.com                     company=Bigitjobs  attempt=1
+2026-02-24 21:54:52 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:55:02 | INFO     | [19/46] Processing: Bosctechlabs (3 recipient(s))
+2026-02-24 21:55:02 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:04 | INFO     | [SUCCESS] Sent to anchal.choudhary@bosctechlabs.com         company=Bosctechlabs  attempt=1
+2026-02-24 21:55:04 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:07 | INFO     | [SUCCESS] Sent to hr@bosctechlabs.com                       company=Bosctechlabs  attempt=1
+2026-02-24 21:55:07 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:10 | INFO     | [SUCCESS] Sent to careers@bosctechlabs.com                  company=Bosctechlabs  attempt=1
+2026-02-24 21:55:10 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:55:20 | INFO     | [20/46] Processing: Capermint (2 recipient(s))
+2026-02-24 21:55:20 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:23 | INFO     | [SUCCESS] Sent to hr@capermint.com                          company=Capermint  attempt=1
+2026-02-24 21:55:23 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:25 | INFO     | [SUCCESS] Sent to careers@capermint.com                     company=Capermint  attempt=1
+2026-02-24 21:55:25 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:55:35 | INFO     | [21/46] Processing: Successpact (3 recipient(s))
+2026-02-24 21:55:35 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:38 | INFO     | [SUCCESS] Sent to shivam.badana@successpact.com             company=Successpact  attempt=1
+2026-02-24 21:55:38 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:41 | INFO     | [SUCCESS] Sent to hr@successpact.com                        company=Successpact  attempt=1
+2026-02-24 21:55:41 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:43 | INFO     | [SUCCESS] Sent to careers@successpact.com                   company=Successpact  attempt=1
+2026-02-24 21:55:43 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:55:53 | INFO     | [22/46] Processing: Vaisesika (3 recipient(s))
+2026-02-24 21:55:53 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:56 | INFO     | [SUCCESS] Sent to talent@vaisesika.in                       company=Vaisesika  attempt=1
+2026-02-24 21:55:56 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:55:58 | INFO     | [SUCCESS] Sent to hr@vaisesika.in                           company=Vaisesika  attempt=1
+2026-02-24 21:55:58 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:01 | INFO     | [SUCCESS] Sent to careers@vaisesika.in                      company=Vaisesika  attempt=1
+2026-02-24 21:56:01 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:56:11 | INFO     | [23/46] Processing: Oaktreecloud (3 recipient(s))
+2026-02-24 21:56:11 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:14 | INFO     | [SUCCESS] Sent to nikitasinha@oaktreecloud.com              company=Oaktreecloud  attempt=1
+2026-02-24 21:56:14 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:16 | INFO     | [SUCCESS] Sent to hr@oaktreecloud.com                       company=Oaktreecloud  attempt=1
+2026-02-24 21:56:16 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:19 | INFO     | [SUCCESS] Sent to careers@oaktreecloud.com                  company=Oaktreecloud  attempt=1
+2026-02-24 21:56:19 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:56:29 | INFO     | [24/46] Processing: Celebaltech (3 recipient(s))
+2026-02-24 21:56:29 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:31 | INFO     | [SUCCESS] Sent to vijay1.sharma@celebaltech.com             company=Celebaltech  attempt=1
+2026-02-24 21:56:31 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:34 | INFO     | [SUCCESS] Sent to hr@celebaltech.com                        company=Celebaltech  attempt=1
+2026-02-24 21:56:34 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:36 | INFO     | [SUCCESS] Sent to careers@celebaltech.com                   company=Celebaltech  attempt=1
+2026-02-24 21:56:36 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:56:46 | INFO     | [25/46] Processing: Saasant (3 recipient(s))
+2026-02-24 21:56:46 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:50 | INFO     | [SUCCESS] Sent to vaishnavi@saasant.com                     company=Saasant  attempt=1
+2026-02-24 21:56:50 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:53 | INFO     | [SUCCESS] Sent to hr@saasant.com                            company=Saasant  attempt=1
+2026-02-24 21:56:53 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:56:55 | INFO     | [SUCCESS] Sent to careers@saasant.com                       company=Saasant  attempt=1
+2026-02-24 21:56:55 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:57:06 | INFO     | [26/46] Processing: Infoorigin (3 recipient(s))
+2026-02-24 21:57:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:08 | INFO     | [SUCCESS] Sent to shweta.bansod@infoorigin.com              company=Infoorigin  attempt=1
+2026-02-24 21:57:08 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:11 | INFO     | [SUCCESS] Sent to hr@infoorigin.com                         company=Infoorigin  attempt=1
+2026-02-24 21:57:11 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:14 | INFO     | [SUCCESS] Sent to careers@infoorigin.com                    company=Infoorigin  attempt=1
+2026-02-24 21:57:14 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:57:24 | INFO     | [27/46] Processing: Systango (3 recipient(s))
+2026-02-24 21:57:24 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:26 | INFO     | [SUCCESS] Sent to mansi.choudhary@systango.com              company=Systango  attempt=1
+2026-02-24 21:57:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:29 | INFO     | [SUCCESS] Sent to hr@systango.com                           company=Systango  attempt=1
+2026-02-24 21:57:29 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:32 | INFO     | [SUCCESS] Sent to careers@systango.com                      company=Systango  attempt=1
+2026-02-24 21:57:32 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:57:42 | INFO     | [28/46] Processing: Metayb (3 recipient(s))
+2026-02-24 21:57:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:45 | INFO     | [SUCCESS] Sent to kuppusamy.t@metayb.ai                     company=Metayb  attempt=1
+2026-02-24 21:57:45 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:47 | INFO     | [SUCCESS] Sent to hr@metayb.ai                              company=Metayb  attempt=1
+2026-02-24 21:57:47 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:57:51 | INFO     | [SUCCESS] Sent to careers@metayb.ai                         company=Metayb  attempt=1
+2026-02-24 21:57:51 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:58:01 | INFO     | [29/46] Processing: Bold (3 recipient(s))
+2026-02-24 21:58:01 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:03 | INFO     | [SUCCESS] Sent to abhishek.kapoor@bold.com                  company=Bold  attempt=1
+2026-02-24 21:58:03 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:06 | INFO     | [SUCCESS] Sent to hr@bold.com                               company=Bold  attempt=1
+2026-02-24 21:58:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:09 | INFO     | [SUCCESS] Sent to careers@bold.com                          company=Bold  attempt=1
+2026-02-24 21:58:09 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:58:19 | INFO     | [30/46] Processing: Infolexus (4 recipient(s))
+2026-02-24 21:58:19 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:21 | INFO     | [SUCCESS] Sent to recruiter1@infolexus.com                  company=Infolexus  attempt=1
+2026-02-24 21:58:21 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:24 | INFO     | [SUCCESS] Sent to recruiter2@infolexus.com                  company=Infolexus  attempt=1
+2026-02-24 21:58:24 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:26 | INFO     | [SUCCESS] Sent to hr@infolexus.com                          company=Infolexus  attempt=1
+2026-02-24 21:58:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:29 | INFO     | [SUCCESS] Sent to careers@infolexus.com                     company=Infolexus  attempt=1
+2026-02-24 21:58:29 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:58:39 | INFO     | [31/46] Processing: Qualtrixconsulting (3 recipient(s))
+2026-02-24 21:58:39 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:42 | INFO     | [SUCCESS] Sent to meenakshi@qualtrixconsulting.com          company=Qualtrixconsulting  attempt=1
+2026-02-24 21:58:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:44 | INFO     | [SUCCESS] Sent to hr@qualtrixconsulting.com                 company=Qualtrixconsulting  attempt=1
+2026-02-24 21:58:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:47 | INFO     | [SUCCESS] Sent to careers@qualtrixconsulting.com            company=Qualtrixconsulting  attempt=1
+2026-02-24 21:58:47 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:58:57 | INFO     | [32/46] Processing: Softonehr (3 recipient(s))
+2026-02-24 21:58:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:58:59 | INFO     | [SUCCESS] Sent to jisha@softonehr.com                       company=Softonehr  attempt=1
+2026-02-24 21:58:59 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:02 | INFO     | [SUCCESS] Sent to hr@softonehr.com                          company=Softonehr  attempt=1
+2026-02-24 21:59:02 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:05 | INFO     | [SUCCESS] Sent to careers@softonehr.com                     company=Softonehr  attempt=1
+2026-02-24 21:59:05 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:59:15 | INFO     | [33/46] Processing: Ksolves (3 recipient(s))
+2026-02-24 21:59:15 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:17 | INFO     | [SUCCESS] Sent to joni.sharma@ksolves.com                   company=Ksolves  attempt=1
+2026-02-24 21:59:17 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:20 | INFO     | [SUCCESS] Sent to hr@ksolves.com                            company=Ksolves  attempt=1
+2026-02-24 21:59:20 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:23 | INFO     | [SUCCESS] Sent to careers@ksolves.com                       company=Ksolves  attempt=1
+2026-02-24 21:59:23 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:59:33 | INFO     | [34/46] Processing: Vilwaatech (3 recipient(s))
+2026-02-24 21:59:33 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:36 | INFO     | [SUCCESS] Sent to jayas@vilwaatech.com                      company=Vilwaatech  attempt=1
+2026-02-24 21:59:36 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:39 | INFO     | [SUCCESS] Sent to hr@vilwaatech.com                         company=Vilwaatech  attempt=1
+2026-02-24 21:59:39 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:41 | INFO     | [SUCCESS] Sent to careers@vilwaatech.com                    company=Vilwaatech  attempt=1
+2026-02-24 21:59:41 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 21:59:51 | INFO     | [35/46] Processing: Impetus (3 recipient(s))
+2026-02-24 21:59:51 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:54 | INFO     | [SUCCESS] Sent to sonam.n.gupta@impetus.com                 company=Impetus  attempt=1
+2026-02-24 21:59:54 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 21:59:57 | INFO     | [SUCCESS] Sent to hr@impetus.com                            company=Impetus  attempt=1
+2026-02-24 21:59:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:00 | INFO     | [SUCCESS] Sent to careers@impetus.com                       company=Impetus  attempt=1
+2026-02-24 22:00:00 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:00:10 | INFO     | [36/46] Processing: Spinoffindia (3 recipient(s))
+2026-02-24 22:00:10 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:12 | INFO     | [SUCCESS] Sent to varun.patil@spinoffindia.com              company=Spinoffindia  attempt=1
+2026-02-24 22:00:12 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:15 | INFO     | [SUCCESS] Sent to hr@spinoffindia.com                       company=Spinoffindia  attempt=1
+2026-02-24 22:00:15 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:17 | INFO     | [SUCCESS] Sent to careers@spinoffindia.com                  company=Spinoffindia  attempt=1
+2026-02-24 22:00:17 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:00:27 | INFO     | [37/46] Processing: Equifax (3 recipient(s))
+2026-02-24 22:00:27 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:29 | INFO     | [SUCCESS] Sent to makarand.ghule@equifax.com                company=Equifax  attempt=1
+2026-02-24 22:00:29 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:32 | INFO     | [SUCCESS] Sent to hr@equifax.com                            company=Equifax  attempt=1
+2026-02-24 22:00:32 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:35 | INFO     | [SUCCESS] Sent to careers@equifax.com                       company=Equifax  attempt=1
+2026-02-24 22:00:35 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:00:45 | INFO     | [38/46] Processing: Sureminds (3 recipient(s))
+2026-02-24 22:00:45 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:48 | INFO     | [SUCCESS] Sent to sarah.c@sureminds.co.in                   company=Sureminds  attempt=1
+2026-02-24 22:00:48 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:51 | INFO     | [SUCCESS] Sent to hr@sureminds.co.in                        company=Sureminds  attempt=1
+2026-02-24 22:00:51 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:00:53 | INFO     | [SUCCESS] Sent to careers@sureminds.co.in                   company=Sureminds  attempt=1
+2026-02-24 22:00:53 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:01:03 | INFO     | [39/46] Processing: Intellicsglobal (3 recipient(s))
+2026-02-24 22:01:04 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:06 | INFO     | [SUCCESS] Sent to parameswari@intellicsglobal.com           company=Intellicsglobal  attempt=1
+2026-02-24 22:01:06 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:09 | INFO     | [SUCCESS] Sent to hr@intellicsglobal.com                    company=Intellicsglobal  attempt=1
+2026-02-24 22:01:09 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:11 | INFO     | [SUCCESS] Sent to careers@intellicsglobal.com               company=Intellicsglobal  attempt=1
+2026-02-24 22:01:11 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:01:21 | INFO     | [40/46] Processing: Gspann (3 recipient(s))
+2026-02-24 22:01:21 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:24 | INFO     | [SUCCESS] Sent to surya.challa@gspann.com                   company=Gspann  attempt=1
+2026-02-24 22:01:24 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:26 | INFO     | [SUCCESS] Sent to hr@gspann.com                             company=Gspann  attempt=1
+2026-02-24 22:01:26 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:29 | INFO     | [SUCCESS] Sent to careers@gspann.com                        company=Gspann  attempt=1
+2026-02-24 22:01:29 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:01:39 | INFO     | [41/46] Processing: Globalitfamily (3 recipient(s))
+2026-02-24 22:01:39 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:41 | INFO     | [SUCCESS] Sent to ghanshyam.yadav@globalitfamily.com        company=Globalitfamily  attempt=1
+2026-02-24 22:01:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:44 | INFO     | [SUCCESS] Sent to hr@globalitfamily.com                     company=Globalitfamily  attempt=1
+2026-02-24 22:01:44 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:01:47 | INFO     | [SUCCESS] Sent to careers@globalitfamily.com                company=Globalitfamily  attempt=1
+2026-02-24 22:01:47 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:01:57 | INFO     | [42/46] Processing: Peoplefy (4 recipient(s))
+2026-02-24 22:01:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:00 | INFO     | [SUCCESS] Sent to kshitija.mh@peoplefy.com                  company=Peoplefy  attempt=1
+2026-02-24 22:02:00 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:03 | INFO     | [SUCCESS] Sent to uma.si@peoplefy.com                       company=Peoplefy  attempt=1
+2026-02-24 22:02:03 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:05 | INFO     | [SUCCESS] Sent to hr@peoplefy.com                           company=Peoplefy  attempt=1
+2026-02-24 22:02:05 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:08 | INFO     | [SUCCESS] Sent to careers@peoplefy.com                      company=Peoplefy  attempt=1
+2026-02-24 22:02:08 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:02:18 | INFO     | [43/46] Processing: Adescaretech (3 recipient(s))
+2026-02-24 22:02:18 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:21 | INFO     | [SUCCESS] Sent to danish@adescaretech.com                   company=Adescaretech  attempt=1
+2026-02-24 22:02:21 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:23 | INFO     | [SUCCESS] Sent to hr@adescaretech.com                       company=Adescaretech  attempt=1
+2026-02-24 22:02:23 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:26 | INFO     | [SUCCESS] Sent to careers@adescaretech.com                  company=Adescaretech  attempt=1
+2026-02-24 22:02:26 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:02:36 | INFO     | [44/46] Processing: Tekegenieservices (3 recipient(s))
+2026-02-24 22:02:36 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:38 | INFO     | [SUCCESS] Sent to b.roshitha@tekegenieservices.com          company=Tekegenieservices  attempt=1
+2026-02-24 22:02:38 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:42 | INFO     | [SUCCESS] Sent to hr@tekegenieservices.com                  company=Tekegenieservices  attempt=1
+2026-02-24 22:02:42 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:44 | INFO     | [SUCCESS] Sent to careers@tekegenieservices.com             company=Tekegenieservices  attempt=1
+2026-02-24 22:02:44 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:02:54 | INFO     | [45/46] Processing: Sfconsults (3 recipient(s))
+2026-02-24 22:02:54 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:57 | INFO     | [SUCCESS] Sent to sudarshan@sfconsults.com                  company=Sfconsults  attempt=1
+2026-02-24 22:02:57 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:02:59 | INFO     | [SUCCESS] Sent to hr@sfconsults.com                         company=Sfconsults  attempt=1
+2026-02-24 22:02:59 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:03:02 | INFO     | [SUCCESS] Sent to careers@sfconsults.com                    company=Sfconsults  attempt=1
+2026-02-24 22:03:02 | DEBUG    | Sleeping 10s before next company…
+2026-02-24 22:03:12 | INFO     | [46/46] Processing: Vurramtechnologies (3 recipient(s))
+2026-02-24 22:03:12 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:03:14 | INFO     | [SUCCESS] Sent to manisha@vurramtechnologies.com            company=Vurramtechnologies  attempt=1
+2026-02-24 22:03:15 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:03:17 | INFO     | [SUCCESS] Sent to hr@vurramtechnologies.com                 company=Vurramtechnologies  attempt=1
+2026-02-24 22:03:17 | DEBUG    | Resume attached: resume.pdf
+2026-02-24 22:03:20 | INFO     | [SUCCESS] Sent to careers@vurramtechnologies.com            company=Vurramtechnologies  attempt=1
+2026-02-24 22:03:20 | INFO     | ============================================================
+2026-02-24 22:03:20 | INFO     | RUN COMPLETE
+2026-02-24 22:03:20 | INFO     |   Sent    : 138
+2026-02-24 22:03:20 | INFO     |   Failed  : 0
+2026-02-24 22:03:20 | INFO     |   Skipped : 0
+2026-02-24 22:03:20 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-24 22:03:20 | INFO     | ============================================================
+2026-02-27 20:18:06 | INFO     | ============================================================
+2026-02-27 20:18:06 | INFO     | Cold Email Sender — 2026-02-27 20:18:06
+2026-02-27 20:18:06 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:06 | INFO     | ============================================================
+2026-02-27 20:18:06 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 20:18:08 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 20:18:08 | INFO     | ------------------------------------------------------------
+2026-02-27 20:18:08 | INFO     | [1/15] Processing: Smtlabs (3 recipient(s))
+2026-02-27 20:18:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:10 | INFO     | [SUCCESS] Sent to vaishnavi.shukla@smtlabs.io               company=Smtlabs  attempt=1
+2026-02-27 20:18:10 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:12 | INFO     | [SUCCESS] Sent to hr@smtlabs.io                             company=Smtlabs  attempt=1
+2026-02-27 20:18:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:14 | INFO     | [SUCCESS] Sent to careers@smtlabs.io                        company=Smtlabs  attempt=1
+2026-02-27 20:18:14 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:18:24 | INFO     | [2/15] Processing: Dkutechnologies (4 recipient(s))
+2026-02-27 20:18:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:27 | INFO     | [SUCCESS] Sent to surya@dkutechnologies.in                  company=Dkutechnologies  attempt=1
+2026-02-27 20:18:27 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:29 | INFO     | [SUCCESS] Sent to umak@dkutechnologies.in                   company=Dkutechnologies  attempt=1
+2026-02-27 20:18:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:32 | INFO     | [SUCCESS] Sent to hr@dkutechnologies.in                     company=Dkutechnologies  attempt=1
+2026-02-27 20:18:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:34 | INFO     | [SUCCESS] Sent to careers@dkutechnologies.in                company=Dkutechnologies  attempt=1
+2026-02-27 20:18:34 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:18:44 | INFO     | [3/15] Processing: Emorphis (3 recipient(s))
+2026-02-27 20:18:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:46 | INFO     | [SUCCESS] Sent to chitranshi.mangla@emorphis.in             company=Emorphis  attempt=1
+2026-02-27 20:18:46 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:48 | INFO     | [SUCCESS] Sent to hr@emorphis.in                            company=Emorphis  attempt=1
+2026-02-27 20:18:48 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:18:51 | INFO     | [SUCCESS] Sent to careers@emorphis.in                       company=Emorphis  attempt=1
+2026-02-27 20:18:51 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:19:01 | INFO     | [4/15] Processing: Everestek (3 recipient(s))
+2026-02-27 20:19:01 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:03 | INFO     | [SUCCESS] Sent to komal.rokde@everestek.com                 company=Everestek  attempt=1
+2026-02-27 20:19:03 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:06 | INFO     | [SUCCESS] Sent to hr@everestek.com                          company=Everestek  attempt=1
+2026-02-27 20:19:06 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:08 | INFO     | [SUCCESS] Sent to careers@everestek.com                     company=Everestek  attempt=1
+2026-02-27 20:19:08 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:19:18 | INFO     | [5/15] Processing: Dayhawk (3 recipient(s))
+2026-02-27 20:19:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:20 | INFO     | [SUCCESS] Sent to tanya.punjabi@dayhawk.in                  company=Dayhawk  attempt=1
+2026-02-27 20:19:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:22 | INFO     | [SUCCESS] Sent to hr@dayhawk.in                             company=Dayhawk  attempt=1
+2026-02-27 20:19:22 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:24 | INFO     | [SUCCESS] Sent to careers@dayhawk.in                        company=Dayhawk  attempt=1
+2026-02-27 20:19:24 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:19:34 | INFO     | [6/15] Processing: Bitcot (4 recipient(s))
+2026-02-27 20:19:34 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:37 | INFO     | [SUCCESS] Sent to berlinxavier@bitcot.com                   company=Bitcot  attempt=1
+2026-02-27 20:19:37 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:39 | INFO     | [SUCCESS] Sent to bhbharadwaj@bestpeers.com                 company=Bitcot  attempt=1
+2026-02-27 20:19:39 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:43 | INFO     | [SUCCESS] Sent to hr@bitcot.com                             company=Bitcot  attempt=1
+2026-02-27 20:19:43 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:45 | INFO     | [SUCCESS] Sent to careers@bitcot.com                        company=Bitcot  attempt=1
+2026-02-27 20:19:45 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:19:55 | INFO     | [7/15] Processing: Lancesoft (3 recipient(s))
+2026-02-27 20:19:55 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:19:58 | INFO     | [SUCCESS] Sent to vijetas@lancesoft.in                      company=Lancesoft  attempt=1
+2026-02-27 20:19:58 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:00 | INFO     | [SUCCESS] Sent to hr@lancesoft.in                           company=Lancesoft  attempt=1
+2026-02-27 20:20:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:02 | INFO     | [SUCCESS] Sent to careers@lancesoft.in                      company=Lancesoft  attempt=1
+2026-02-27 20:20:02 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:20:12 | INFO     | [8/15] Processing: Clarigoinfotech (3 recipient(s))
+2026-02-27 20:20:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:14 | INFO     | [SUCCESS] Sent to ayushi@clarigoinfotech.com                company=Clarigoinfotech  attempt=1
+2026-02-27 20:20:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:16 | INFO     | [SUCCESS] Sent to hr@clarigoinfotech.com                    company=Clarigoinfotech  attempt=1
+2026-02-27 20:20:16 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:19 | INFO     | [SUCCESS] Sent to careers@clarigoinfotech.com               company=Clarigoinfotech  attempt=1
+2026-02-27 20:20:19 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:20:29 | INFO     | [9/15] Processing: Gemsessence (2 recipient(s))
+2026-02-27 20:20:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:31 | INFO     | [SUCCESS] Sent to hr@gemsessence.com                        company=Gemsessence  attempt=1
+2026-02-27 20:20:31 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:34 | INFO     | [SUCCESS] Sent to careers@gemsessence.com                   company=Gemsessence  attempt=1
+2026-02-27 20:20:34 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:20:44 | INFO     | [10/15] Processing: Securonix (3 recipient(s))
+2026-02-27 20:20:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:47 | INFO     | [SUCCESS] Sent to radhoni@securonix.com                     company=Securonix  attempt=1
+2026-02-27 20:20:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:49 | INFO     | [SUCCESS] Sent to hr@securonix.com                          company=Securonix  attempt=1
+2026-02-27 20:20:49 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:20:51 | INFO     | [SUCCESS] Sent to careers@securonix.com                     company=Securonix  attempt=1
+2026-02-27 20:20:51 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:21:01 | INFO     | [11/15] Processing: Freshcodes (2 recipient(s))
+2026-02-27 20:21:01 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:03 | INFO     | [SUCCESS] Sent to hr@freshcodes.in                          company=Freshcodes  attempt=1
+2026-02-27 20:21:03 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:07 | INFO     | [SUCCESS] Sent to careers@freshcodes.in                     company=Freshcodes  attempt=1
+2026-02-27 20:21:07 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:21:17 | INFO     | [12/15] Processing: Anaxee (3 recipient(s))
+2026-02-27 20:21:17 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:19 | INFO     | [SUCCESS] Sent to jobs@anaxee.com                           company=Anaxee  attempt=1
+2026-02-27 20:21:19 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:22 | INFO     | [SUCCESS] Sent to hr@anaxee.com                             company=Anaxee  attempt=1
+2026-02-27 20:21:22 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:24 | INFO     | [SUCCESS] Sent to careers@anaxee.com                        company=Anaxee  attempt=1
+2026-02-27 20:21:24 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:21:34 | INFO     | [13/15] Processing: Fiftyfivetech (3 recipient(s))
+2026-02-27 20:21:34 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:37 | INFO     | [SUCCESS] Sent to diya.asnani@fiftyfivetech.io              company=Fiftyfivetech  attempt=1
+2026-02-27 20:21:37 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:39 | INFO     | [SUCCESS] Sent to hr@fiftyfivetech.io                       company=Fiftyfivetech  attempt=1
+2026-02-27 20:21:39 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:41 | INFO     | [SUCCESS] Sent to careers@fiftyfivetech.io                  company=Fiftyfivetech  attempt=1
+2026-02-27 20:21:41 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:21:51 | INFO     | [14/15] Processing: Bestpeers (3 recipient(s))
+2026-02-27 20:21:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:54 | INFO     | [SUCCESS] Sent to bhbharadwaj@bestpeers.com                 company=Bestpeers  attempt=1
+2026-02-27 20:21:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:56 | INFO     | [SUCCESS] Sent to hr@bestpeers.com                          company=Bestpeers  attempt=1
+2026-02-27 20:21:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:21:58 | INFO     | [SUCCESS] Sent to careers@bestpeers.com                     company=Bestpeers  attempt=1
+2026-02-27 20:21:58 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:22:08 | INFO     | [15/15] Processing: Esferasoft (2 recipient(s))
+2026-02-27 20:22:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:22:11 | INFO     | [SUCCESS] Sent to hr@esferasoft.com                         company=Esferasoft  attempt=1
+2026-02-27 20:22:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:22:13 | INFO     | [SUCCESS] Sent to careers@esferasoft.com                    company=Esferasoft  attempt=1
+2026-02-27 20:22:13 | INFO     | ============================================================
+2026-02-27 20:22:13 | INFO     | RUN COMPLETE
+2026-02-27 20:22:13 | INFO     |   Sent    : 44
+2026-02-27 20:22:13 | INFO     |   Failed  : 0
+2026-02-27 20:22:13 | INFO     |   Skipped : 0
+2026-02-27 20:22:13 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-27 20:22:13 | INFO     | ============================================================
+2026-02-27 20:27:49 | INFO     | ============================================================
+2026-02-27 20:27:49 | INFO     | Cold Email Sender — 2026-02-27 20:27:49
+2026-02-27 20:27:49 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:27:49 | INFO     | ============================================================
+2026-02-27 20:27:49 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 20:27:51 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 20:27:51 | INFO     | ------------------------------------------------------------
+2026-02-27 20:27:51 | INFO     | [1/15] Processing: Smtlabs (3 recipient(s))
+2026-02-27 20:27:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:27:53 | INFO     | [SUCCESS] Sent to vaishnavi.shukla@smtlabs.io               company=Smtlabs  attempt=1
+2026-02-27 20:27:53 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:27:55 | INFO     | [SUCCESS] Sent to hr@smtlabs.io                             company=Smtlabs  attempt=1
+2026-02-27 20:27:55 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:27:59 | INFO     | [SUCCESS] Sent to careers@smtlabs.io                        company=Smtlabs  attempt=1
+2026-02-27 20:27:59 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:28:09 | INFO     | [2/15] Processing: Dkutechnologies (4 recipient(s))
+2026-02-27 20:28:09 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:11 | INFO     | [SUCCESS] Sent to surya@dkutechnologies.in                  company=Dkutechnologies  attempt=1
+2026-02-27 20:28:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:14 | INFO     | [SUCCESS] Sent to umak@dkutechnologies.in                   company=Dkutechnologies  attempt=1
+2026-02-27 20:28:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:16 | INFO     | [SUCCESS] Sent to hr@dkutechnologies.in                     company=Dkutechnologies  attempt=1
+2026-02-27 20:28:16 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:19 | INFO     | [SUCCESS] Sent to careers@dkutechnologies.in                company=Dkutechnologies  attempt=1
+2026-02-27 20:28:19 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:28:29 | INFO     | [3/15] Processing: Emorphis (3 recipient(s))
+2026-02-27 20:28:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:32 | INFO     | [SUCCESS] Sent to chitranshi.mangal@emorphis.in             company=Emorphis  attempt=1
+2026-02-27 20:28:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:35 | INFO     | [SUCCESS] Sent to hr@emorphis.in                            company=Emorphis  attempt=1
+2026-02-27 20:28:35 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:37 | INFO     | [SUCCESS] Sent to careers@emorphis.in                       company=Emorphis  attempt=1
+2026-02-27 20:28:37 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:28:47 | INFO     | [4/15] Processing: Everestek (3 recipient(s))
+2026-02-27 20:28:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:49 | INFO     | [SUCCESS] Sent to komal.rokde@everestek.com                 company=Everestek  attempt=1
+2026-02-27 20:28:49 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:53 | INFO     | [SUCCESS] Sent to hr@everestek.com                          company=Everestek  attempt=1
+2026-02-27 20:28:53 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:28:55 | INFO     | [SUCCESS] Sent to careers@everestek.com                     company=Everestek  attempt=1
+2026-02-27 20:28:55 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:29:05 | INFO     | [5/15] Processing: Dayhawk (3 recipient(s))
+2026-02-27 20:29:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:07 | INFO     | [SUCCESS] Sent to tanya.punjabi@dayhawk.in                  company=Dayhawk  attempt=1
+2026-02-27 20:29:07 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:09 | INFO     | [SUCCESS] Sent to hr@dayhawk.in                             company=Dayhawk  attempt=1
+2026-02-27 20:29:09 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:11 | INFO     | [SUCCESS] Sent to careers@dayhawk.in                        company=Dayhawk  attempt=1
+2026-02-27 20:29:11 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:29:21 | INFO     | [6/15] Processing: Bitcot (4 recipient(s))
+2026-02-27 20:29:21 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:24 | INFO     | [SUCCESS] Sent to berlinxavier@bitcot.com                   company=Bitcot  attempt=1
+2026-02-27 20:29:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:26 | INFO     | [SUCCESS] Sent to bhbharadwaj@bestpeers.com                 company=Bitcot  attempt=1
+2026-02-27 20:29:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:28 | INFO     | [SUCCESS] Sent to hr@bitcot.com                             company=Bitcot  attempt=1
+2026-02-27 20:29:28 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:30 | INFO     | [SUCCESS] Sent to careers@bitcot.com                        company=Bitcot  attempt=1
+2026-02-27 20:29:30 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:29:40 | INFO     | [7/15] Processing: Lancesoft (3 recipient(s))
+2026-02-27 20:29:40 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:44 | INFO     | [SUCCESS] Sent to vijetas@lancesoft.in                      company=Lancesoft  attempt=1
+2026-02-27 20:29:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:46 | INFO     | [SUCCESS] Sent to hr@lancesoft.in                           company=Lancesoft  attempt=1
+2026-02-27 20:29:46 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:29:48 | INFO     | [SUCCESS] Sent to careers@lancesoft.in                      company=Lancesoft  attempt=1
+2026-02-27 20:29:48 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:29:58 | INFO     | [8/15] Processing: Clarigoinfotech (3 recipient(s))
+2026-02-27 20:29:58 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:00 | INFO     | [SUCCESS] Sent to ayushi@clarigoinfotech.com                company=Clarigoinfotech  attempt=1
+2026-02-27 20:30:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:03 | INFO     | [SUCCESS] Sent to hr@clarigoinfotech.com                    company=Clarigoinfotech  attempt=1
+2026-02-27 20:30:03 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:05 | INFO     | [SUCCESS] Sent to careers@clarigoinfotech.com               company=Clarigoinfotech  attempt=1
+2026-02-27 20:30:05 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:30:15 | INFO     | [9/15] Processing: Gemsessence (2 recipient(s))
+2026-02-27 20:30:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:18 | INFO     | [SUCCESS] Sent to hr@gemsessence.com                        company=Gemsessence  attempt=1
+2026-02-27 20:30:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:20 | INFO     | [SUCCESS] Sent to careers@gemsessence.com                   company=Gemsessence  attempt=1
+2026-02-27 20:30:20 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:30:30 | INFO     | [10/15] Processing: Securonix (3 recipient(s))
+2026-02-27 20:30:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:35 | INFO     | [SUCCESS] Sent to radhoni@securonix.com                     company=Securonix  attempt=1
+2026-02-27 20:30:35 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:38 | INFO     | [SUCCESS] Sent to hr@securonix.com                          company=Securonix  attempt=1
+2026-02-27 20:30:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:40 | INFO     | [SUCCESS] Sent to careers@securonix.com                     company=Securonix  attempt=1
+2026-02-27 20:30:40 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:30:50 | INFO     | [11/15] Processing: Freshcodes (2 recipient(s))
+2026-02-27 20:30:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:30:56 | INFO     | [SUCCESS] Sent to hr@freshcodes.in                          company=Freshcodes  attempt=1
+2026-02-27 20:30:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:01 | INFO     | [SUCCESS] Sent to careers@freshcodes.in                     company=Freshcodes  attempt=1
+2026-02-27 20:31:01 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:31:11 | INFO     | [12/15] Processing: Anaxee (3 recipient(s))
+2026-02-27 20:31:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:14 | INFO     | [SUCCESS] Sent to jobs@anaxee.com                           company=Anaxee  attempt=1
+2026-02-27 20:31:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:19 | INFO     | [SUCCESS] Sent to hr@anaxee.com                             company=Anaxee  attempt=1
+2026-02-27 20:31:19 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:22 | INFO     | [SUCCESS] Sent to careers@anaxee.com                        company=Anaxee  attempt=1
+2026-02-27 20:31:22 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:31:32 | INFO     | [13/15] Processing: Fiftyfivetech (3 recipient(s))
+2026-02-27 20:31:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:34 | INFO     | [SUCCESS] Sent to diya.asnani@fiftyfivetech.io              company=Fiftyfivetech  attempt=1
+2026-02-27 20:31:34 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:44 | INFO     | [SUCCESS] Sent to hr@fiftyfivetech.io                       company=Fiftyfivetech  attempt=1
+2026-02-27 20:31:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:31:49 | INFO     | [SUCCESS] Sent to careers@fiftyfivetech.io                  company=Fiftyfivetech  attempt=1
+2026-02-27 20:31:49 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:31:59 | INFO     | [14/15] Processing: Bestpeers (3 recipient(s))
+2026-02-27 20:31:59 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:32:02 | INFO     | [SUCCESS] Sent to bhbharadwaj@bestpeers.com                 company=Bestpeers  attempt=1
+2026-02-27 20:32:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:32:05 | INFO     | [SUCCESS] Sent to hr@bestpeers.com                          company=Bestpeers  attempt=1
+2026-02-27 20:32:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:32:08 | INFO     | [SUCCESS] Sent to careers@bestpeers.com                     company=Bestpeers  attempt=1
+2026-02-27 20:32:08 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:32:18 | INFO     | [15/15] Processing: Esferasoft (2 recipient(s))
+2026-02-27 20:32:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:32:20 | INFO     | [SUCCESS] Sent to hr@esferasoft.com                         company=Esferasoft  attempt=1
+2026-02-27 20:32:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:32:23 | INFO     | [SUCCESS] Sent to careers@esferasoft.com                    company=Esferasoft  attempt=1
+2026-02-27 20:32:24 | INFO     | ============================================================
+2026-02-27 20:32:24 | INFO     | RUN COMPLETE
+2026-02-27 20:32:24 | INFO     |   Sent    : 44
+2026-02-27 20:32:24 | INFO     |   Failed  : 0
+2026-02-27 20:32:24 | INFO     |   Skipped : 0
+2026-02-27 20:32:24 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-27 20:32:24 | INFO     | ============================================================
+2026-02-27 20:48:51 | INFO     | ============================================================
+2026-02-27 20:48:51 | INFO     | Cold Email Sender — 2026-02-27 20:48:51
+2026-02-27 20:48:51 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:48:51 | INFO     | ============================================================
+2026-02-27 20:48:51 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 20:48:53 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 20:48:53 | INFO     | ------------------------------------------------------------
+2026-02-27 20:48:53 | INFO     | [1/3] Processing: Cloudstakes (1 recipient(s))
+2026-02-27 20:48:53 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:48:54 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739d4d826sm5506537b3a.10 - gsmtp')} — attempt 1/3
+2026-02-27 20:48:54 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:49:00 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739d4d826sm5506537b3a.10 - gsmtp')} — attempt 2/3
+2026-02-27 20:49:00 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:49:06 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739d4d826sm5506537b3a.10 - gsmtp')} — attempt 3/3
+2026-02-27 20:49:06 | ERROR    | [FAILED] All 3 attempts exhausted for emails
+2026-02-27 20:49:06 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:49:14 | WARNING  | Interrupted by user.
+2026-02-27 20:49:14 | INFO     | ============================================================
+2026-02-27 20:49:14 | INFO     | RUN COMPLETE
+2026-02-27 20:49:14 | INFO     |   Sent    : 0
+2026-02-27 20:49:14 | INFO     |   Failed  : 1
+2026-02-27 20:49:14 | INFO     |   Skipped : 0
+2026-02-27 20:49:14 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-27 20:49:14 | INFO     | ============================================================
+2026-02-27 20:49:24 | INFO     | ============================================================
+2026-02-27 20:49:24 | INFO     | Cold Email Sender — 2026-02-27 20:49:24
+2026-02-27 20:49:24 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:49:24 | INFO     | ============================================================
+2026-02-27 20:49:24 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 20:49:26 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 20:49:26 | INFO     | ------------------------------------------------------------
+2026-02-27 20:49:26 | INFO     | [1/3] Processing: Cloudstakes (1 recipient(s))
+2026-02-27 20:49:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:49:27 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d9443c01a7336-2adfb5dbac7sm86272655ad.37 - gsmtp')} — attempt 1/3
+2026-02-27 20:49:27 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:49:33 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d9443c01a7336-2adfb5dbac7sm86272655ad.37 - gsmtp')} — attempt 2/3
+2026-02-27 20:49:33 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:49:39 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d9443c01a7336-2adfb5dbac7sm86272655ad.37 - gsmtp')} — attempt 3/3
+2026-02-27 20:49:39 | ERROR    | [FAILED] All 3 attempts exhausted for emails
+2026-02-27 20:49:39 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:49:43 | INFO     | ============================================================
+2026-02-27 20:49:43 | INFO     | Cold Email Sender — 2026-02-27 20:49:43
+2026-02-27 20:49:43 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:49:43 | INFO     | ============================================================
+2026-02-27 20:49:43 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 20:49:45 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 20:49:45 | INFO     | ------------------------------------------------------------
+2026-02-27 20:49:45 | INFO     | [1/3] Processing: Cloudstakes (1 recipient(s))
+2026-02-27 20:49:45 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:49:46 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 1/3
+2026-02-27 20:49:46 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:49:51 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 2/3
+2026-02-27 20:49:51 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:49:57 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 3/3
+2026-02-27 20:49:57 | ERROR    | [FAILED] All 3 attempts exhausted for emails
+2026-02-27 20:49:57 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:50:07 | INFO     | [2/3] Processing: Tekevolve (1 recipient(s))
+2026-02-27 20:50:07 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:50:08 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 1/3
+2026-02-27 20:50:08 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:50:14 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 2/3
+2026-02-27 20:50:14 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:50:20 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 3/3
+2026-02-27 20:50:20 | ERROR    | [FAILED] All 3 attempts exhausted for emails
+2026-02-27 20:50:20 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:50:30 | INFO     | [3/3] Processing: Tailinc Ai (1 recipient(s))
+2026-02-27 20:50:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:50:31 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 1/3
+2026-02-27 20:50:31 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:50:37 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 2/3
+2026-02-27 20:50:37 | DEBUG    | Waiting 5s before retry...
+2026-02-27 20:50:43 | WARNING  | [REFUSED] Recipient refused (emails): {'emails': (553, b'5.1.3 The recipient address <emails> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-82739ff1a69sm5376837b3a.34 - gsmtp')} — attempt 3/3
+2026-02-27 20:50:43 | ERROR    | [FAILED] All 3 attempts exhausted for emails
+2026-02-27 20:50:43 | INFO     | ============================================================
+2026-02-27 20:50:43 | INFO     | RUN COMPLETE
+2026-02-27 20:50:43 | INFO     |   Sent    : 0
+2026-02-27 20:50:43 | INFO     |   Failed  : 3
+2026-02-27 20:50:43 | INFO     |   Skipped : 0
+2026-02-27 20:50:43 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-27 20:50:43 | INFO     | ============================================================
+2026-02-27 20:53:57 | INFO     | ============================================================
+2026-02-27 20:53:57 | INFO     | Cold Email Sender — 2026-02-27 20:53:57
+2026-02-27 20:53:57 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:53:57 | INFO     | ============================================================
+2026-02-27 20:53:57 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 20:53:59 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 20:53:59 | INFO     | ------------------------------------------------------------
+2026-02-27 20:53:59 | INFO     | [1/3] Processing: Cloudstakes (3 recipient(s))
+2026-02-27 20:53:59 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:02 | INFO     | [SUCCESS] Sent to Salomi.gadhiya@cloudstakes.com            company=Cloudstakes  attempt=1
+2026-02-27 20:54:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:05 | INFO     | [SUCCESS] Sent to hr@cloudstakes.com                        company=Cloudstakes  attempt=1
+2026-02-27 20:54:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:08 | INFO     | [SUCCESS] Sent to careers@cloudstakes.com                   company=Cloudstakes  attempt=1
+2026-02-27 20:54:08 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:54:18 | INFO     | [2/3] Processing: Tekevolve (3 recipient(s))
+2026-02-27 20:54:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:20 | INFO     | [SUCCESS] Sent to raviram@tekevolve.com                     company=Tekevolve  attempt=1
+2026-02-27 20:54:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:23 | INFO     | [SUCCESS] Sent to hr@tekevolve.com                          company=Tekevolve  attempt=1
+2026-02-27 20:54:23 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:25 | INFO     | [SUCCESS] Sent to careers@tekevolve.com                     company=Tekevolve  attempt=1
+2026-02-27 20:54:25 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 20:54:35 | INFO     | [3/3] Processing: Tailinc (2 recipient(s))
+2026-02-27 20:54:35 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:38 | INFO     | [SUCCESS] Sent to hr@tailinc.ai                             company=Tailinc  attempt=1
+2026-02-27 20:54:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 20:54:41 | INFO     | [SUCCESS] Sent to careers@tailinc.ai                        company=Tailinc  attempt=1
+2026-02-27 20:54:41 | INFO     | ============================================================
+2026-02-27 20:54:41 | INFO     | RUN COMPLETE
+2026-02-27 20:54:41 | INFO     |   Sent    : 8
+2026-02-27 20:54:41 | INFO     |   Failed  : 0
+2026-02-27 20:54:41 | INFO     |   Skipped : 0
+2026-02-27 20:54:41 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-27 20:54:41 | INFO     | ============================================================
+2026-02-27 23:02:17 | INFO     | ============================================================
+2026-02-27 23:02:17 | INFO     | Cold Email Sender — 2026-02-27 23:02:17
+2026-02-27 23:02:17 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:17 | INFO     | ============================================================
+2026-02-27 23:02:17 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-02-27 23:02:18 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-02-27 23:02:18 | INFO     | ------------------------------------------------------------
+2026-02-27 23:02:18 | INFO     | [1/42] Processing: Ajacs (3 recipient(s))
+2026-02-27 23:02:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:21 | INFO     | [SUCCESS] Sent to s.gundepally@ajacs.in                     company=Ajacs  attempt=1
+2026-02-27 23:02:21 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:25 | INFO     | [SUCCESS] Sent to hr@ajacs.in                               company=Ajacs  attempt=1
+2026-02-27 23:02:25 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:28 | INFO     | [SUCCESS] Sent to careers@ajacs.in                          company=Ajacs  attempt=1
+2026-02-27 23:02:28 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:02:38 | INFO     | [2/42] Processing: Americanchase (7 recipient(s))
+2026-02-27 23:02:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:40 | INFO     | [SUCCESS] Sent to roshni.kasturi@americanchase.com          company=Americanchase  attempt=1
+2026-02-27 23:02:40 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:42 | INFO     | [SUCCESS] Sent to hanshika.dubey@americanchase.com          company=Americanchase  attempt=1
+2026-02-27 23:02:42 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:44 | INFO     | [SUCCESS] Sent to shivangi.patel@americanchase.com          company=Americanchase  attempt=1
+2026-02-27 23:02:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:47 | INFO     | [SUCCESS] Sent to abha.mishra@americanchase.com             company=Americanchase  attempt=1
+2026-02-27 23:02:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:49 | INFO     | [SUCCESS] Sent to shivam.dubey@americanchase.com            company=Americanchase  attempt=1
+2026-02-27 23:02:49 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:51 | INFO     | [SUCCESS] Sent to hr@americanchase.com                      company=Americanchase  attempt=1
+2026-02-27 23:02:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:02:54 | INFO     | [SUCCESS] Sent to careers@americanchase.com                 company=Americanchase  attempt=1
+2026-02-27 23:02:54 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:03:04 | INFO     | [3/42] Processing: Anaxee (3 recipient(s))
+2026-02-27 23:03:04 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:07 | INFO     | [SUCCESS] Sent to jobs@anaxee.com                           company=Anaxee  attempt=1
+2026-02-27 23:03:07 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:09 | INFO     | [SUCCESS] Sent to hr@anaxee.com                             company=Anaxee  attempt=1
+2026-02-27 23:03:09 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:11 | INFO     | [SUCCESS] Sent to careers@anaxee.com                        company=Anaxee  attempt=1
+2026-02-27 23:03:11 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:03:21 | INFO     | [4/42] Processing: Bestpeers (3 recipient(s))
+2026-02-27 23:03:21 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:24 | INFO     | [SUCCESS] Sent to bhbharadwaj@bestpeers.com                 company=Bestpeers  attempt=1
+2026-02-27 23:03:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:26 | INFO     | [SUCCESS] Sent to hr@bestpeers.com                          company=Bestpeers  attempt=1
+2026-02-27 23:03:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:29 | INFO     | [SUCCESS] Sent to careers@bestpeers.com                     company=Bestpeers  attempt=1
+2026-02-27 23:03:29 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:03:39 | INFO     | [5/42] Processing: Bitcot (3 recipient(s))
+2026-02-27 23:03:39 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:41 | INFO     | [SUCCESS] Sent to berlinxavier@bitcot.com                   company=Bitcot  attempt=1
+2026-02-27 23:03:41 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:43 | INFO     | [SUCCESS] Sent to hr@bitcot.com                             company=Bitcot  attempt=1
+2026-02-27 23:03:43 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:46 | INFO     | [SUCCESS] Sent to careers@bitcot.com                        company=Bitcot  attempt=1
+2026-02-27 23:03:46 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:03:56 | INFO     | [6/42] Processing: Blucursor (2 recipient(s))
+2026-02-27 23:03:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:03:59 | INFO     | [SUCCESS] Sent to careers@blucursor.com                     company=Blucursor  attempt=1
+2026-02-27 23:03:59 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:02 | INFO     | [SUCCESS] Sent to hr@blucursor.com                          company=Blucursor  attempt=1
+2026-02-27 23:04:02 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:04:12 | INFO     | [7/42] Processing: Bluetris (3 recipient(s))
+2026-02-27 23:04:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:14 | INFO     | [SUCCESS] Sent to priyanshi.jain@bluetris.com               company=Bluetris  attempt=1
+2026-02-27 23:04:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:16 | INFO     | [SUCCESS] Sent to hr@bluetris.com                           company=Bluetris  attempt=1
+2026-02-27 23:04:16 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:20 | INFO     | [SUCCESS] Sent to careers@bluetris.com                      company=Bluetris  attempt=1
+2026-02-27 23:04:20 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:04:30 | INFO     | [8/42] Processing: Clarigoinfotech (3 recipient(s))
+2026-02-27 23:04:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:33 | INFO     | [SUCCESS] Sent to ayushi@clarigoinfotech.com                company=Clarigoinfotech  attempt=1
+2026-02-27 23:04:33 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:36 | INFO     | [SUCCESS] Sent to hr@clarigoinfotech.com                    company=Clarigoinfotech  attempt=1
+2026-02-27 23:04:36 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:38 | INFO     | [SUCCESS] Sent to careers@clarigoinfotech.com               company=Clarigoinfotech  attempt=1
+2026-02-27 23:04:38 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:04:48 | INFO     | [9/42] Processing: Cloudstakes (3 recipient(s))
+2026-02-27 23:04:48 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:51 | INFO     | [SUCCESS] Sent to Salomi.gadhiya@cloudstakes.com            company=Cloudstakes  attempt=1
+2026-02-27 23:04:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:54 | INFO     | [SUCCESS] Sent to hr@cloudstakes.com                        company=Cloudstakes  attempt=1
+2026-02-27 23:04:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:04:56 | INFO     | [SUCCESS] Sent to careers@cloudstakes.com                   company=Cloudstakes  attempt=1
+2026-02-27 23:04:56 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:05:06 | INFO     | [10/42] Processing: Cloudtechon (3 recipient(s))
+2026-02-27 23:05:06 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:08 | INFO     | [SUCCESS] Sent to contact@cloudtechon.com                   company=Cloudtechon  attempt=1
+2026-02-27 23:05:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:11 | INFO     | [SUCCESS] Sent to hr@cloudtechon.com                        company=Cloudtechon  attempt=1
+2026-02-27 23:05:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:13 | INFO     | [SUCCESS] Sent to careers@cloudtechon.com                   company=Cloudtechon  attempt=1
+2026-02-27 23:05:13 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:05:23 | INFO     | [11/42] Processing: Cyntexa (2 recipient(s))
+2026-02-27 23:05:23 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:25 | INFO     | [SUCCESS] Sent to hr@cyntexa.com                            company=Cyntexa  attempt=1
+2026-02-27 23:05:25 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:27 | INFO     | [SUCCESS] Sent to careers@cyntexa.com                       company=Cyntexa  attempt=1
+2026-02-27 23:05:27 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:05:37 | INFO     | [12/42] Processing: Dayhawk (3 recipient(s))
+2026-02-27 23:05:37 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:39 | INFO     | [SUCCESS] Sent to tanya.punjabi@dayhawk.in                  company=Dayhawk  attempt=1
+2026-02-27 23:05:39 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:42 | INFO     | [SUCCESS] Sent to hr@dayhawk.in                             company=Dayhawk  attempt=1
+2026-02-27 23:05:42 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:44 | INFO     | [SUCCESS] Sent to careers@dayhawk.in                        company=Dayhawk  attempt=1
+2026-02-27 23:05:44 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:05:54 | INFO     | [13/42] Processing: Devopsenabler (2 recipient(s))
+2026-02-27 23:05:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:56 | INFO     | [SUCCESS] Sent to careers@devopsenabler.com                 company=Devopsenabler  attempt=1
+2026-02-27 23:05:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:05:58 | INFO     | [SUCCESS] Sent to hr@devopsenabler.com                      company=Devopsenabler  attempt=1
+2026-02-27 23:05:58 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:06:08 | INFO     | [14/42] Processing: Dkutechnologies (4 recipient(s))
+2026-02-27 23:06:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:10 | INFO     | [SUCCESS] Sent to surya@dkutechnologies.in                  company=Dkutechnologies  attempt=1
+2026-02-27 23:06:10 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:12 | INFO     | [SUCCESS] Sent to umak@dkutechnologies.in                   company=Dkutechnologies  attempt=1
+2026-02-27 23:06:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:14 | INFO     | [SUCCESS] Sent to hr@dkutechnologies.in                     company=Dkutechnologies  attempt=1
+2026-02-27 23:06:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:16 | INFO     | [SUCCESS] Sent to careers@dkutechnologies.in                company=Dkutechnologies  attempt=1
+2026-02-27 23:06:16 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:06:26 | INFO     | [15/42] Processing: Doodleblue (3 recipient(s))
+2026-02-27 23:06:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:28 | INFO     | [SUCCESS] Sent to sowmiya@doodleblue.com                    company=Doodleblue  attempt=1
+2026-02-27 23:06:28 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:31 | INFO     | [SUCCESS] Sent to hr@doodleblue.com                         company=Doodleblue  attempt=1
+2026-02-27 23:06:31 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:33 | INFO     | [SUCCESS] Sent to careers@doodleblue.com                    company=Doodleblue  attempt=1
+2026-02-27 23:06:33 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:06:43 | INFO     | [16/42] Processing: Dwellfox (3 recipient(s))
+2026-02-27 23:06:43 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:45 | INFO     | [SUCCESS] Sent to sahil.mehra@dwellfox.com                  company=Dwellfox  attempt=1
+2026-02-27 23:06:45 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:47 | INFO     | [SUCCESS] Sent to hr@dwellfox.com                           company=Dwellfox  attempt=1
+2026-02-27 23:06:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:06:50 | INFO     | [SUCCESS] Sent to careers@dwellfox.com                      company=Dwellfox  attempt=1
+2026-02-27 23:06:50 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:07:00 | INFO     | [17/42] Processing: Emorphis (3 recipient(s))
+2026-02-27 23:07:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:02 | INFO     | [SUCCESS] Sent to chitranshi.mangla@emorphis.in             company=Emorphis  attempt=1
+2026-02-27 23:07:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:04 | INFO     | [SUCCESS] Sent to hr@emorphis.in                            company=Emorphis  attempt=1
+2026-02-27 23:07:04 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:06 | INFO     | [SUCCESS] Sent to careers@emorphis.in                       company=Emorphis  attempt=1
+2026-02-27 23:07:06 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:07:16 | INFO     | [18/42] Processing: Esferasoft (2 recipient(s))
+2026-02-27 23:07:16 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:18 | INFO     | [SUCCESS] Sent to hr@esferasoft.com                         company=Esferasoft  attempt=1
+2026-02-27 23:07:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:20 | INFO     | [SUCCESS] Sent to careers@esferasoft.com                    company=Esferasoft  attempt=1
+2026-02-27 23:07:20 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:07:30 | INFO     | [19/42] Processing: Everestek (3 recipient(s))
+2026-02-27 23:07:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:32 | INFO     | [SUCCESS] Sent to komal.rokde@everestek.com                 company=Everestek  attempt=1
+2026-02-27 23:07:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:34 | INFO     | [SUCCESS] Sent to hr@everestek.com                          company=Everestek  attempt=1
+2026-02-27 23:07:34 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:36 | INFO     | [SUCCESS] Sent to careers@everestek.com                     company=Everestek  attempt=1
+2026-02-27 23:07:36 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:07:46 | INFO     | [20/42] Processing: 47Billion (3 recipient(s))
+2026-02-27 23:07:46 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:48 | INFO     | [SUCCESS] Sent to harshita.panwar@47billion.com             company=47Billion  attempt=1
+2026-02-27 23:07:48 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:50 | INFO     | [SUCCESS] Sent to hr@47billion.com                          company=47Billion  attempt=1
+2026-02-27 23:07:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:07:52 | INFO     | [SUCCESS] Sent to careers@47billion.com                     company=47Billion  attempt=1
+2026-02-27 23:07:52 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:08:02 | INFO     | [21/42] Processing: 47Billions (2 recipient(s))
+2026-02-27 23:08:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:05 | INFO     | [SUCCESS] Sent to hr@47billions.com                         company=47Billions  attempt=1
+2026-02-27 23:08:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:07 | INFO     | [SUCCESS] Sent to careers@47billions.com                    company=47Billions  attempt=1
+2026-02-27 23:08:07 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:08:17 | INFO     | [22/42] Processing: Fiftyfivetech (3 recipient(s))
+2026-02-27 23:08:17 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:19 | INFO     | [SUCCESS] Sent to diya.asnani@fiftyfivetech.io              company=Fiftyfivetech  attempt=1
+2026-02-27 23:08:19 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:21 | INFO     | [SUCCESS] Sent to hr@fiftyfivetech.io                       company=Fiftyfivetech  attempt=1
+2026-02-27 23:08:21 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:23 | INFO     | [SUCCESS] Sent to careers@fiftyfivetech.io                  company=Fiftyfivetech  attempt=1
+2026-02-27 23:08:23 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:08:33 | INFO     | [23/42] Processing: Freshcodes (2 recipient(s))
+2026-02-27 23:08:33 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:35 | INFO     | [SUCCESS] Sent to hr@freshcodes.in                          company=Freshcodes  attempt=1
+2026-02-27 23:08:35 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:37 | INFO     | [SUCCESS] Sent to careers@freshcodes.in                     company=Freshcodes  attempt=1
+2026-02-27 23:08:37 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:08:47 | INFO     | [24/42] Processing: Gammastack (5 recipient(s))
+2026-02-27 23:08:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:49 | INFO     | [SUCCESS] Sent to anjjain@gammastack.com                    company=Gammastack  attempt=1
+2026-02-27 23:08:49 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:51 | INFO     | [SUCCESS] Sent to cbarfa@gammastack.com                     company=Gammastack  attempt=1
+2026-02-27 23:08:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:54 | INFO     | [SUCCESS] Sent to kmalviya@gammastack.com                   company=Gammastack  attempt=1
+2026-02-27 23:08:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:56 | INFO     | [SUCCESS] Sent to hr@gammastack.com                         company=Gammastack  attempt=1
+2026-02-27 23:08:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:08:58 | INFO     | [SUCCESS] Sent to careers@gammastack.com                    company=Gammastack  attempt=1
+2026-02-27 23:08:58 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:09:08 | INFO     | [25/42] Processing: Gemsessence (2 recipient(s))
+2026-02-27 23:09:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:10 | INFO     | [SUCCESS] Sent to hr@gemsessence.com                        company=Gemsessence  attempt=1
+2026-02-27 23:09:10 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:12 | INFO     | [SUCCESS] Sent to careers@gemsessence.com                   company=Gemsessence  attempt=1
+2026-02-27 23:09:12 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:09:22 | INFO     | [26/42] Processing: Hiteshi (3 recipient(s))
+2026-02-27 23:09:22 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:24 | INFO     | [SUCCESS] Sent to sakshi.sharma@hiteshi.com                 company=Hiteshi  attempt=1
+2026-02-27 23:09:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:26 | INFO     | [SUCCESS] Sent to hr@hiteshi.com                            company=Hiteshi  attempt=1
+2026-02-27 23:09:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:29 | INFO     | [SUCCESS] Sent to careers@hiteshi.com                       company=Hiteshi  attempt=1
+2026-02-27 23:09:29 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:09:39 | INFO     | [27/42] Processing: Hotbitinfotech (3 recipient(s))
+2026-02-27 23:09:39 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:41 | INFO     | [SUCCESS] Sent to hr@hotbitinfotech.com                     company=Hotbitinfotech  attempt=1
+2026-02-27 23:09:41 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:43 | INFO     | [SUCCESS] Sent to dsaini@hotbitinfotech.com                 company=Hotbitinfotech  attempt=1
+2026-02-27 23:09:43 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:45 | INFO     | [SUCCESS] Sent to careers@hotbitinfotech.com                company=Hotbitinfotech  attempt=1
+2026-02-27 23:09:45 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:09:55 | INFO     | [28/42] Processing: Hotbitinfosoft (2 recipient(s))
+2026-02-27 23:09:55 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:57 | INFO     | [SUCCESS] Sent to careers@hotbitinfosoft.com                company=Hotbitinfosoft  attempt=1
+2026-02-27 23:09:57 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:09:59 | INFO     | [SUCCESS] Sent to hr@hotbitinfosoft.com                     company=Hotbitinfosoft  attempt=1
+2026-02-27 23:09:59 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:10:09 | INFO     | [29/42] Processing: Impetus (3 recipient(s))
+2026-02-27 23:10:09 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:11 | INFO     | [SUCCESS] Sent to career@impetus.com                        company=Impetus  attempt=1
+2026-02-27 23:10:11 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:13 | INFO     | [SUCCESS] Sent to hr@impetus.com                            company=Impetus  attempt=1
+2026-02-27 23:10:13 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:15 | INFO     | [SUCCESS] Sent to careers@impetus.com                       company=Impetus  attempt=1
+2026-02-27 23:10:15 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:10:25 | INFO     | [30/42] Processing: Lancesoft (3 recipient(s))
+2026-02-27 23:10:25 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:28 | INFO     | [SUCCESS] Sent to vijetas@lancesoft.in                      company=Lancesoft  attempt=1
+2026-02-27 23:10:28 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:30 | INFO     | [SUCCESS] Sent to hr@lancesoft.in                           company=Lancesoft  attempt=1
+2026-02-27 23:10:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:32 | INFO     | [SUCCESS] Sent to careers@lancesoft.in                      company=Lancesoft  attempt=1
+2026-02-27 23:10:32 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:10:42 | INFO     | [31/42] Processing: Legibytes (2 recipient(s))
+2026-02-27 23:10:42 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:45 | INFO     | [SUCCESS] Sent to hr@legibytes.com                          company=Legibytes  attempt=1
+2026-02-27 23:10:45 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:10:47 | INFO     | [SUCCESS] Sent to careers@legibytes.com                     company=Legibytes  attempt=1
+2026-02-27 23:10:47 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:10:57 | INFO     | [32/42] Processing: Mangoitsolutions (2 recipient(s))
+2026-02-27 23:10:57 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:00 | INFO     | [SUCCESS] Sent to hr@mangoitsolutions.com                   company=Mangoitsolutions  attempt=1
+2026-02-27 23:11:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:02 | INFO     | [SUCCESS] Sent to careers@mangoitsolutions.com              company=Mangoitsolutions  attempt=1
+2026-02-27 23:11:02 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:11:12 | INFO     | [33/42] Processing: Netlink (9 recipient(s))
+2026-02-27 23:11:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:14 | INFO     | [SUCCESS] Sent to plakhyani@netlink.com                     company=Netlink  attempt=1
+2026-02-27 23:11:14 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:17 | INFO     | [SUCCESS] Sent to shikhav@netlink.com                       company=Netlink  attempt=1
+2026-02-27 23:11:17 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:19 | INFO     | [SUCCESS] Sent to praisinghani@netlink.com                  company=Netlink  attempt=1
+2026-02-27 23:11:19 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:22 | INFO     | [SUCCESS] Sent to ujjwals@netlink.com                       company=Netlink  attempt=1
+2026-02-27 23:11:22 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:24 | INFO     | [SUCCESS] Sent to klalwani@netlink.com                      company=Netlink  attempt=1
+2026-02-27 23:11:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:26 | INFO     | [SUCCESS] Sent to ymukati@netlink.com                       company=Netlink  attempt=1
+2026-02-27 23:11:26 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:28 | INFO     | [SUCCESS] Sent to himanshir@netlink.com                     company=Netlink  attempt=1
+2026-02-27 23:11:28 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:30 | INFO     | [SUCCESS] Sent to hr@netlink.com                            company=Netlink  attempt=1
+2026-02-27 23:11:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:32 | INFO     | [SUCCESS] Sent to careers@netlink.com                       company=Netlink  attempt=1
+2026-02-27 23:11:32 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:11:42 | INFO     | [34/42] Processing: Nixtree (2 recipient(s))
+2026-02-27 23:11:42 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:44 | INFO     | [SUCCESS] Sent to careers@nixtree.com                       company=Nixtree  attempt=1
+2026-02-27 23:11:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:46 | INFO     | [SUCCESS] Sent to hr@nixtree.com                            company=Nixtree  attempt=1
+2026-02-27 23:11:46 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:11:56 | INFO     | [35/42] Processing: Scalecapacity (3 recipient(s))
+2026-02-27 23:11:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:11:58 | INFO     | [SUCCESS] Sent to career-in@scalecapacity.com               company=Scalecapacity  attempt=1
+2026-02-27 23:11:58 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:00 | INFO     | [SUCCESS] Sent to hr@scalecapacity.com                      company=Scalecapacity  attempt=1
+2026-02-27 23:12:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:02 | INFO     | [SUCCESS] Sent to careers@scalecapacity.com                 company=Scalecapacity  attempt=1
+2026-02-27 23:12:02 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:12:12 | INFO     | [36/42] Processing: Securonix (3 recipient(s))
+2026-02-27 23:12:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:15 | INFO     | [SUCCESS] Sent to radhoni@securonix.com                     company=Securonix  attempt=1
+2026-02-27 23:12:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:17 | INFO     | [SUCCESS] Sent to hr@securonix.com                          company=Securonix  attempt=1
+2026-02-27 23:12:17 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:19 | INFO     | [SUCCESS] Sent to careers@securonix.com                     company=Securonix  attempt=1
+2026-02-27 23:12:19 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:12:29 | INFO     | [37/42] Processing: Smtlabs (3 recipient(s))
+2026-02-27 23:12:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:31 | INFO     | [SUCCESS] Sent to vaishnavi.shukla@smtlabs.io               company=Smtlabs  attempt=1
+2026-02-27 23:12:31 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:33 | INFO     | [SUCCESS] Sent to hr@smtlabs.io                             company=Smtlabs  attempt=1
+2026-02-27 23:12:33 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:35 | INFO     | [SUCCESS] Sent to careers@smtlabs.io                        company=Smtlabs  attempt=1
+2026-02-27 23:12:35 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:12:45 | INFO     | [38/42] Processing: Tailinc (2 recipient(s))
+2026-02-27 23:12:45 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:47 | INFO     | [SUCCESS] Sent to hr@tailinc.ai                             company=Tailinc  attempt=1
+2026-02-27 23:12:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:12:50 | INFO     | [SUCCESS] Sent to careers@tailinc.ai                        company=Tailinc  attempt=1
+2026-02-27 23:12:50 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:13:00 | INFO     | [39/42] Processing: Tekevolve (3 recipient(s))
+2026-02-27 23:13:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:02 | INFO     | [SUCCESS] Sent to raviram@tekevolve.com                     company=Tekevolve  attempt=1
+2026-02-27 23:13:02 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:04 | INFO     | [SUCCESS] Sent to hr@tekevolve.com                          company=Tekevolve  attempt=1
+2026-02-27 23:13:04 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:06 | INFO     | [SUCCESS] Sent to careers@tekevolve.com                     company=Tekevolve  attempt=1
+2026-02-27 23:13:06 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:13:16 | INFO     | [40/42] Processing: Technource (3 recipient(s))
+2026-02-27 23:13:16 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:18 | INFO     | [SUCCESS] Sent to career@technource.com                     company=Technource  attempt=1
+2026-02-27 23:13:18 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:20 | INFO     | [SUCCESS] Sent to careers@technource.com                    company=Technource  attempt=1
+2026-02-27 23:13:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:22 | INFO     | [SUCCESS] Sent to hr@technource.com                         company=Technource  attempt=1
+2026-02-27 23:13:22 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:13:32 | INFO     | [41/42] Processing: Truefirms (3 recipient(s))
+2026-02-27 23:13:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:34 | INFO     | [SUCCESS] Sent to info@truefirms.com                        company=Truefirms  attempt=1
+2026-02-27 23:13:34 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:36 | INFO     | [SUCCESS] Sent to hr@truefirms.com                          company=Truefirms  attempt=1
+2026-02-27 23:13:36 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:38 | INFO     | [SUCCESS] Sent to careers@truefirms.com                     company=Truefirms  attempt=1
+2026-02-27 23:13:38 | DEBUG    | Sleeping 10s before next company…
+2026-02-27 23:13:48 | INFO     | [42/42] Processing: Webkorps (2 recipient(s))
+2026-02-27 23:13:48 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:50 | INFO     | [SUCCESS] Sent to hr@webkorps.com                           company=Webkorps  attempt=1
+2026-02-27 23:13:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-02-27 23:13:52 | INFO     | [SUCCESS] Sent to careers@webkorps.com                      company=Webkorps  attempt=1
+2026-02-27 23:13:52 | INFO     | ============================================================
+2026-02-27 23:13:52 | INFO     | RUN COMPLETE
+2026-02-27 23:13:52 | INFO     |   Sent    : 126
+2026-02-27 23:13:52 | INFO     |   Failed  : 0
+2026-02-27 23:13:52 | INFO     |   Skipped : 0
+2026-02-27 23:13:52 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-02-27 23:13:52 | INFO     | ============================================================
+2026-03-01 11:38:36 | INFO     | ============================================================
+2026-03-01 11:38:36 | INFO     | Cold Email Sender — 2026-03-01 11:38:36
+2026-03-01 11:38:36 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:38:36 | INFO     | ============================================================
+2026-03-01 11:38:36 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-03-01 11:38:38 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-03-01 11:38:38 | INFO     | ------------------------------------------------------------
+2026-03-01 11:38:38 | INFO     | [1/11] Processing: Digisoftsolution (3 recipient(s))
+2026-03-01 11:38:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:38:41 | INFO     | [SUCCESS] Sent to vanshika.sharma@digisoftsolution.com      company=Digisoftsolution  attempt=1
+2026-03-01 11:38:41 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:38:43 | INFO     | [SUCCESS] Sent to hr@digisoftsolution.com                   company=Digisoftsolution  attempt=1
+2026-03-01 11:38:43 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:38:46 | INFO     | [SUCCESS] Sent to careers@digisoftsolution.com              company=Digisoftsolution  attempt=1
+2026-03-01 11:38:46 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:38:56 | INFO     | [2/11] Processing: Appthryst (3 recipient(s))
+2026-03-01 11:38:56 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:38:58 | INFO     | [SUCCESS] Sent to adarsh@appthryst.com                      company=Appthryst  attempt=1
+2026-03-01 11:38:58 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:00 | INFO     | [SUCCESS] Sent to hr@appthryst.com                          company=Appthryst  attempt=1
+2026-03-01 11:39:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:03 | INFO     | [SUCCESS] Sent to careers@appthryst.com                     company=Appthryst  attempt=1
+2026-03-01 11:39:03 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:39:13 | INFO     | [3/11] Processing: Chicmicstudios (3 recipient(s))
+2026-03-01 11:39:13 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:15 | INFO     | [SUCCESS] Sent to neha.rawat@chicmicstudios.in              company=Chicmicstudios  attempt=1
+2026-03-01 11:39:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:17 | INFO     | [SUCCESS] Sent to hr@chicmicstudios.in                      company=Chicmicstudios  attempt=1
+2026-03-01 11:39:17 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:20 | INFO     | [SUCCESS] Sent to careers@chicmicstudios.in                 company=Chicmicstudios  attempt=1
+2026-03-01 11:39:20 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:39:30 | INFO     | [4/11] Processing: Ecosmob (2 recipient(s))
+2026-03-01 11:39:30 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:32 | INFO     | [SUCCESS] Sent to careers@ecosmob.com                       company=Ecosmob  attempt=1
+2026-03-01 11:39:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:34 | INFO     | [SUCCESS] Sent to hr@ecosmob.com                            company=Ecosmob  attempt=1
+2026-03-01 11:39:34 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:39:44 | INFO     | [5/11] Processing: Startappss (3 recipient(s))
+2026-03-01 11:39:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:46 | INFO     | [SUCCESS] Sent to hr@startappss.com                         company=Startappss  attempt=1
+2026-03-01 11:39:46 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:48 | INFO     | [SUCCESS] Sent to ayushi.khandelwal@startappss.com          company=Startappss  attempt=1
+2026-03-01 11:39:48 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:39:50 | INFO     | [SUCCESS] Sent to careers@startappss.com                    company=Startappss  attempt=1
+2026-03-01 11:39:50 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:40:00 | INFO     | [6/11] Processing: Nexturn (4 recipient(s))
+2026-03-01 11:40:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:03 | INFO     | [SUCCESS] Sent to vidya.annapragada@nexturn.com             company=Nexturn  attempt=1
+2026-03-01 11:40:03 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:05 | INFO     | [SUCCESS] Sent to sirisha.reddy@nexturn.com                 company=Nexturn  attempt=1
+2026-03-01 11:40:05 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:08 | INFO     | [SUCCESS] Sent to hr@nexturn.com                            company=Nexturn  attempt=1
+2026-03-01 11:40:08 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:10 | INFO     | [SUCCESS] Sent to careers@nexturn.com                       company=Nexturn  attempt=1
+2026-03-01 11:40:10 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:40:20 | INFO     | [7/11] Processing: Gmail (2 recipient(s))
+2026-03-01 11:40:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:23 | INFO     | [SUCCESS] Sent to geetanjalihrsofttrix@gmail.com            company=Gmail  attempt=1
+2026-03-01 11:40:23 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:25 | INFO     | [SUCCESS] Sent to shamji.hyperlinkitsystem@gmail.com        company=Gmail  attempt=1
+2026-03-01 11:40:25 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:40:35 | INFO     | [8/11] Processing: Adeevatechnologies (2 recipient(s))
+2026-03-01 11:40:35 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:37 | INFO     | [SUCCESS] Sent to hr@adeevatechnologies.in                  company=Adeevatechnologies  attempt=1
+2026-03-01 11:40:37 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:40 | INFO     | [SUCCESS] Sent to careers@adeevatechnologies.in             company=Adeevatechnologies  attempt=1
+2026-03-01 11:40:40 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:40:50 | INFO     | [9/11] Processing: Technource (3 recipient(s))
+2026-03-01 11:40:50 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:52 | INFO     | [SUCCESS] Sent to career@technource.com                     company=Technource  attempt=1
+2026-03-01 11:40:52 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:54 | INFO     | [SUCCESS] Sent to careers@technource.com                    company=Technource  attempt=1
+2026-03-01 11:40:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:40:57 | INFO     | [SUCCESS] Sent to hr@technource.com                         company=Technource  attempt=1
+2026-03-01 11:40:57 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:41:07 | INFO     | [10/11] Processing: Abhiyantrikitech (2 recipient(s))
+2026-03-01 11:41:07 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:41:09 | INFO     | [SUCCESS] Sent to hr@abhiyantrikitech.com                   company=Abhiyantrikitech  attempt=1
+2026-03-01 11:41:09 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:41:11 | INFO     | [SUCCESS] Sent to careers@abhiyantrikitech.com              company=Abhiyantrikitech  attempt=1
+2026-03-01 11:41:11 | DEBUG    | Sleeping 10s before next company…
+2026-03-01 11:41:21 | INFO     | [11/11] Processing: Richestsoft (3 recipient(s))
+2026-03-01 11:41:21 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:41:23 | INFO     | [SUCCESS] Sent to chetan.chhabra@richestsoft.in             company=Richestsoft  attempt=1
+2026-03-01 11:41:24 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:41:25 | INFO     | [SUCCESS] Sent to hr@richestsoft.in                         company=Richestsoft  attempt=1
+2026-03-01 11:41:25 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-01 11:41:28 | INFO     | [SUCCESS] Sent to careers@richestsoft.in                    company=Richestsoft  attempt=1
+2026-03-01 11:41:28 | INFO     | ============================================================
+2026-03-01 11:41:28 | INFO     | RUN COMPLETE
+2026-03-01 11:41:28 | INFO     |   Sent    : 30
+2026-03-01 11:41:28 | INFO     |   Failed  : 0
+2026-03-01 11:41:28 | INFO     |   Skipped : 0
+2026-03-01 11:41:28 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-03-01 11:41:28 | INFO     | ============================================================
+2026-03-03 09:30:13 | INFO     | ============================================================
+2026-03-03 09:30:13 | INFO     | Cold Email Sender — 2026-03-03 09:30:13
+2026-03-03 09:30:13 | INFO     | Resume : Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:30:13 | INFO     | ============================================================
+2026-03-03 09:30:13 | INFO     | Connecting to SMTP server smtp.gmail.com:587 …
+2026-03-03 09:30:15 | INFO     | Authenticated successfully as satvikdubey268@gmail.com
+2026-03-03 09:30:15 | INFO     | ------------------------------------------------------------
+2026-03-03 09:30:15 | INFO     | [1/18] Processing: Chicmicstudios (1 recipient(s))
+2026-03-03 09:30:15 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:30:19 | INFO     | [SUCCESS] Sent to neha.rawat@chicmicstudios.in              company=Chicmicstudios  attempt=1
+2026-03-03 09:30:19 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:30:29 | INFO     | [2/18] Processing: Startappss (2 recipient(s))
+2026-03-03 09:30:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:30:31 | INFO     | [SUCCESS] Sent to hr@startappss.com                         company=Startappss  attempt=1
+2026-03-03 09:30:31 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:30:34 | INFO     | [SUCCESS] Sent to ayushi.khandelwal@startappss.com          company=Startappss  attempt=1
+2026-03-03 09:30:34 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:30:44 | INFO     | [3/18] Processing: Nexturn (2 recipient(s))
+2026-03-03 09:30:44 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:30:47 | INFO     | [SUCCESS] Sent to vidya.annapragada@nexturn.com             company=Nexturn  attempt=1
+2026-03-03 09:30:47 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:30:50 | INFO     | [SUCCESS] Sent to sirisha.reddy@nexturn.com                 company=Nexturn  attempt=1
+2026-03-03 09:30:50 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:31:00 | INFO     | [4/18] Processing: Adeevatechnologies (1 recipient(s))
+2026-03-03 09:31:00 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:31:02 | INFO     | [SUCCESS] Sent to hr@adeevatechnologies.in                  company=Adeevatechnologies  attempt=1
+2026-03-03 09:31:02 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:31:12 | INFO     | [5/18] Processing: Technource (1 recipient(s))
+2026-03-03 09:31:12 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:31:15 | INFO     | [SUCCESS] Sent to career@technource.com                     company=Technource  attempt=1
+2026-03-03 09:31:15 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:31:25 | INFO     | [6/18] Processing: Abhiyantrikitech (1 recipient(s))
+2026-03-03 09:31:25 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:31:28 | INFO     | [SUCCESS] Sent to hr@abhiyantrikitech.com                   company=Abhiyantrikitech  attempt=1
+2026-03-03 09:31:28 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:31:38 | INFO     | [7/18] Processing: Richestsoft (1 recipient(s))
+2026-03-03 09:31:38 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:31:41 | INFO     | [SUCCESS] Sent to chetan.chhabra@richestsoft.in             company=Richestsoft  attempt=1
+2026-03-03 09:31:41 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:31:51 | INFO     | [8/18] Processing: Thinkquotient (1 recipient(s))
+2026-03-03 09:31:51 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:31:54 | INFO     | [SUCCESS] Sent to career@thinkquotient.com                  company=Thinkquotient  attempt=1
+2026-03-03 09:31:54 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:32:04 | INFO     | [9/18] Processing: Appsandwebsolutions (1 recipient(s))
+2026-03-03 09:32:04 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:32:06 | INFO     | [SUCCESS] Sent to hr@appsandwebsolutions.com                company=Appsandwebsolutions  attempt=1
+2026-03-03 09:32:06 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:32:16 | INFO     | [10/18] Processing: Shiwansh (1 recipient(s))
+2026-03-03 09:32:16 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:32:19 | INFO     | [SUCCESS] Sent to admin@shiwansh.com                        company=Shiwansh  attempt=1
+2026-03-03 09:32:19 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:32:29 | INFO     | [11/18] Processing: Kunalbearings (1 recipient(s))
+2026-03-03 09:32:29 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:32:31 | INFO     | [SUCCESS] Sent to info@kunalbearings.com                    company=Kunalbearings  attempt=1
+2026-03-03 09:32:31 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:32:41 | INFO     | [12/18] Processing: Ibotix (1 recipient(s))
+2026-03-03 09:32:41 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:32:44 | INFO     | [SUCCESS] Sent to vanshika.sharma@ibotix.in                 company=Ibotix  attempt=1
+2026-03-03 09:32:44 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:32:54 | INFO     | [13/18] Processing: Lancesoft (1 recipient(s))
+2026-03-03 09:32:54 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:32:57 | INFO     | [SUCCESS] Sent to negi.manish@lancesoft.com                 company=Lancesoft  attempt=1
+2026-03-03 09:32:57 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:33:07 | INFO     | [14/18] Processing: Cybersrcc (1 recipient(s))
+2026-03-03 09:33:07 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:33:10 | INFO     | [SUCCESS] Sent to pooja@cybersrcc.com                       company=Cybersrcc  attempt=1
+2026-03-03 09:33:10 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:33:20 | INFO     | [15/18] Processing: Thewitslab (1 recipient(s))
+2026-03-03 09:33:20 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:33:22 | INFO     | [SUCCESS] Sent to nimisha.srivastava@thewitslab.com         company=Thewitslab  attempt=1
+2026-03-03 09:33:22 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:33:32 | INFO     | [16/18] Processing: Ecodesoft (1 recipient(s))
+2026-03-03 09:33:32 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:33:35 | INFO     | [SUCCESS] Sent to hr@ecodesoft.com                          company=Ecodesoft  attempt=1
+2026-03-03 09:33:35 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:33:45 | INFO     | [17/18] Processing: Team (1 recipient(s))
+2026-03-03 09:33:45 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:33:48 | INFO     | [SUCCESS] Sent to sakshi.choudhry@team.proofhub.com         company=Team  attempt=1
+2026-03-03 09:33:48 | DEBUG    | Sleeping 10s before next company…
+2026-03-03 09:33:58 | INFO     | [18/18] Processing: Sourcebae (1 recipient(s))
+2026-03-03 09:33:58 | DEBUG    | Resume attached: Satvik_Dubey_DevOps_Resume.pdf
+2026-03-03 09:34:00 | INFO     | [SUCCESS] Sent to swarna@sourcebae.com                      company=Sourcebae  attempt=1
+2026-03-03 09:34:00 | INFO     | ============================================================
+2026-03-03 09:34:00 | INFO     | RUN COMPLETE
+2026-03-03 09:34:00 | INFO     |   Sent    : 20
+2026-03-03 09:34:00 | INFO     |   Failed  : 0
+2026-03-03 09:34:00 | INFO     |   Skipped : 0
+2026-03-03 09:34:00 | INFO     |   Log     : /home/satvik/mail/email_log.txt
+2026-03-03 09:34:00 | INFO     | ============================================================
